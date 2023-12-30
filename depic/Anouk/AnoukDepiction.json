@@ -1,0 +1,85 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xabdoat.github.io/assets/imgs/Anouk/banner.png",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [{
+                    "itemCornerRadius": 4,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Anouk screenshot",
+                            "url": "https://xabdoat.github.io/assets/imgs/Anouk/AnoukScreen1.png"
+                        },
+                        {
+                            "accessibilityText": "Anouk screenshot 2",
+                            "url": "https://xabdoat.github.io/assets/imgs/Anouk/AnoukScreen2.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Authentication for the hidden & Recently Deleted albums."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Latest Version",
+                    "text": "1.1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 - 16.4.1"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Supported Devices",
+                    "text": "iPhone, iPad"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+				{
+                    "class": "DepictionTableButtonView",
+                    "title": "Donate",
+                    "action": "https://www.buymeacoffee.com/AbdoAT"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/xAbdoAT"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Telegram Channel",
+                    "action": "https://t.me/iAppMods"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                }
+            ]
+        }
+    ],
+    "minVersion": "0.1"
+}

@@ -1,0 +1,93 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xabdoat.github.io/assets/imgs/banner.png",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [{
+                    "itemCornerRadius": 4,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "screenshot",
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bd/d1/96/bdd196ed-cbaa-15f6-ee7b-f72383258b4b/5177059d-be0f-4470-80de-c94e68314ff2_1.jpg/230x0w.webp"
+                        },
+                        {
+                            "accessibilityText": "screenshot 2",
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2f/b9/6d/2fb96dab-3327-6fec-01bd-954f11520eaa/e6399b99-999f-4a13-984a-9b7e14c81384_5.jpg/230x0w.webp"
+                        },
+						{
+                            "accessibilityText": "screenshot 3",
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/aa/60/d8aa6057-d85d-2a3e-a8b1-f8d16cc39f1d/5381882f-c44c-4004-b23c-cda145cdaec4_8.jpg/230x0w.webp"
+                        },
+                        {
+                            "accessibilityText": "screenshot 4",
+                            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/61/ad/f761adcd-e673-0521-3469-68581ccb2f18/0b66caf4-d085-4946-9561-7dc7cdc29938_6.jpg/230x0w.webp"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Crack For Imagine - AI Art Generator App Version must be [1.6.4] Support: Rootful & Rootless"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Latest Version",
+                    "text": "1.6.4",
+                    "class": "DepictionTableTextView"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.0 or later"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Supported Devices",
+                    "text": "iPhone, iPad"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+				{
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy Me a Coffee",
+                    "action": "https://www.buymeacoffee.com/AbdoAT"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/xAbdoAT"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Telegram Channel",
+                    "action": "https://t.me/iAppMods"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                }
+            ]
+        }
+    ],
+    "minVersion": "0.1"
+}

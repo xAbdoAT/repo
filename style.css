@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300');
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url('https://images.wallpaperscraft.com/image/single/lamp_wall_brick_137605_3840x2400.jpg');
+  background-position: center center;
+  background-size: cover;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  position: relative;
+}
+
+.title {
+  font-size: 60px;
+  font-weight: 100;
+  margin-bottom: 55px;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px #000000;
+  animation: glitch 5s linear infinite;
+}
+
+.title .classAT {
+  font-size: 30px;
+  text-align: center;
+  animation: colorChange 10s infinite;
+  color: white;
+  text-shadow: 0 0 10px #000000;
+  display: inline-block;
+}
+
+@keyframes glitch {
+  2%, 64% {
+    transform: translate(2px, 0) skew(0deg);
+  }
+  4%, 60% {
+    transform: translate(-2px, 0) skew(0deg);
+  }
+  62% {
+    transform: translate(0, 0) skew(5deg);
+  }
+}
+
+@keyframes colorChange {
+  0% { color: white; }
+  10% { color: #FF7777; }
+  20% { color: #77FF77; }
+  30% { color: #7777FF; }
+  40% { color: #FFFF77; }
+  50% { color: #FF77FF; }
+  60% { color: #77FFFF; }
+  70% { color: #FF7777; }
+  80% { color: #77FF77; }
+  90% { color: #7777FF; }
+  100% { color: white; }
+}
+
+.icon {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 30px;
+  border-radius: 35px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.subtitle {
+  font-size: 30px;
+  font-weight: 300;
+  margin-bottom: 15px;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px #000000;
+}
+
+.links {
+  font-size: 25px;
+  font-weight: 100;
+  margin-bottom: 30px;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px #000000;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  animation: colorChange 10s infinite;
+  text-shadow: 0 0 10px #000000;
+}
+
+.link:hover {
+  color: #FF7777;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 16px;
+  font-weight: 100;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px #000000;
+  padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  /* Modify the styles for smaller screens (phones) */
+  .title {
+    font-size: 40px;
+    margin-bottom: 30px;
+  }
+  .icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+  }
+  .subtitle {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .links {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+}

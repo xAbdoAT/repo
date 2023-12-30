@@ -1,0 +1,129 @@
+Package: jp.akusio.backgrounderaction15
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: xAbdoAT
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 9758
+MD5sum: dc22298382fa90b55cada3c17be1505e
+SHA1: f792ae16efe120e57cb3250cc68f7937013943b7
+SHA256: c497c404ffff941c5fe757f634f5c392f88564e6dcd5fc266a1eeea51b3b948d
+SHA512: 708b2680812c1b400eef5917dc86418ff370992034ec9f594ad8e10465641a2e97a2cc41d9c4aa23009b728437d104f9199f44458d6846675ca1019adb3d897a
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction15 CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Icon: https://github.com/xAbdoAT/xabdoat.github.io/blob/master/assets/icons/icon.png?raw=true
+Sileodepiction: https://xabdoat.github.io/depic/Depiction.json
+Author: xAbdoAT
+
+Package: com.abdo.anouk
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: xAbdoAT
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abdo.anouk_1.1.1_iphoneos-arm64.deb
+Size: 191548
+MD5sum: 54ece5e1ea2b98ae5a1c48602efc917c
+SHA1: 2deab40459c629570af4872ee693f8a33d941292
+SHA256: 769b4fac1e2421a486c0876eb811171dda244b2186a464f90b7c62741359b733
+Section: Tweaks
+Description: Authentication for the hidden & Recently Deleted albums.
+Author: xAbdoAT
+Depiction: https://xabdoat.github.io/depic/Anouk/index.html
+Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
+Name: Anouk
+Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
+
+Package: com.abdo.anouk
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: xAbdoAT
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abdo.anouk_1.1.2_iphoneos-arm64.deb
+Size: 191484
+MD5sum: 92741fb156a9ad8866e19b07c50ce56c
+SHA1: 38fccd91a832ff491f1b61bd71e8203fe266c17a
+SHA256: 590b7b03fea3728721192739fafaeb5bf64014f2e2ee96cc1e0976355e7f044e
+Section: Tweaks
+Description: Authentication for the hidden & Recently Deleted albums.
+Author: xAbdoAT
+Depiction: https://xabdoat.github.io/depic/Anouk/index.html
+Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
+Name: Anouk
+Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
+
+Name: Imagine - AI Art Generator
+Package: com.justvex.imagine_1.6.4
+Architecture: iphoneos-arm
+Author: xAbdoAT
+Maintainer: xAbdoAT
+Section: Crack
+Version: 1.6.4
+Depends: mobilesubstrate
+Filename: ./debs/com.justvex.imagine_1.6.4_iphoneos-arm.deb
+Size: 76548
+MD5sum: 2cf311746f3b4db50db6073cb78e1ab2
+SHA1: 4bab70e6f98b0a53bd7e7d27e0bf5c4b6cd6632f
+SHA256: a4841c89578346d04bbdfb60958e6370262987a15d55e28532daa03887b7449f
+Description: Crack For Imagine - AI Art Generator App Version must be [1.6.4]
+Icon: https://xabdoat.github.io/assets/icons/imagine/icon.png
+Depiction: https://xabdoat.github.io/depic/Imagine/ImagineDepiction.json
+Sileodepiction: https://xabdoat.github.io/depic/Imagine/ImagineDepiction.json
+
+Name: Imagine - AI Art Generator
+Package: com.justvex.imagine_1.6.4
+Architecture: iphoneos-arm64
+Author: xAbdoAT
+Maintainer: xAbdoAT
+Section: Crack
+Version: 1.6.4
+Depends: mobilesubstrate
+Filename: ./debs/com.justvex.imagine_1.6.4_iphoneos-arm64.deb
+Size: 70696
+MD5sum: d0ae6b8c4e9a599b343375dc467621e8
+SHA1: a5eeb23fd30ba18b93cb0a57dbd48e04e750fdda
+SHA256: c8d12a39808c8013b89d3bc087326c603da658d683a46a7ccf1c6d4215f3f10a
+Description: Crack For Imagine - AI Art Generator App Version must be [1.6.4]
+Icon: https://xabdoat.github.io/assets/icons/imagine/icon.png
+Depiction: https://xabdoat.github.io/depic/Imagine/ImagineDepiction.json
+Sileodepiction: https://xabdoat.github.io/depic/Imagine/ImagineDepiction.json
+
+Name: AnimeCloud Pro
+Package: com.justvex.animecloudpro_1.0.2
+Architecture: iphoneos-arm
+Author: xAbdoAT
+Maintainer: xAbdoAT
+Section: Tweaks
+Version: 1.0.2
+Depends: mobilesubstrate
+Filename: ./debs/com.justvex.animecloudpro_1.0.2_iphoneos-arm.deb
+Size: 212692
+MD5sum: e105a0698bfeb0177edda1ab001cf6bc
+SHA1: 675a4d87c2fe903948d6a2cafbc377f498e1b9a3
+SHA256: 69bdc5a3d97a0b673d26150837b5445455a2f2f83152f1d3088bb9b6eb48d8da
+Description: An awesome tweak for Anime Cloud !
+Icon: https://xabdoat.github.io/assets/icons/AnimeCloud/icon.png
+Depiction: https://xabdoat.github.io/depic/AnimeCloud/Depiction.json
+Sileodepiction: https://xabdoat.github.io/depic/AnimeCloud/Depiction.json
+
+Name: AnimeCloud Pro
+Package: com.justvex.animecloudpro_1.0.2
+Architecture: iphoneos-arm64
+Author: xAbdoAT
+Maintainer: xAbdoAT
+Section: Tweaks
+Version: 1.0.2
+Depends: mobilesubstrate, oldabi
+Filename: ./debs/com.justvex.animecloudpro_1.0.2_iphoneos-arm64.deb
+Size: 203172
+MD5sum: 59966d84806b81906205f98b367689c5
+SHA1: da2d9b96c4a0f96e0bb370f3f03bcee839639118
+SHA256: 2be693d1b1a285fd8438143698779efbf272a79a724f03cf8515d9ac11df492e
+Description: An awesome tweak for Anime Cloud !
+Icon: https://xabdoat.github.io/assets/icons/AnimeCloud/icon.png
+Depiction: https://xabdoat.github.io/depic/AnimeCloud/Depiction.json
+Sileodepiction: https://xabdoat.github.io/depic/AnimeCloud/Depiction.json

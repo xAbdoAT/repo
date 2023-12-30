@@ -1,0 +1,9 @@
+Origin: Abdo AT
+Label: Abdo AT
+Suite: stable
+Version: 1.0
+Codename: xAbdoAT-repo
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Thanks for adding my Repo, follow me on Twitter(@xAbdoAT).
+Icon: file://CydiaIcon.png
