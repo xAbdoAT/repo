@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xabdoat.github.io/assets/imgs/banner.png",
+    "headerImage": "https://xabdoat.github.io/repo/assets/imgs/banner.png",
     "tabs": [{
             "class": "DepictionStackView",
             "tabname": "Overview",
@@ -11,15 +11,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "screenshot",
-                            "url": "https://xabdoat.github.io/assets/imgs/Screen.png"
+                            "url": "https://xabdoat.github.io/repo/assets/imgs/Screen.png"
                         },
                         {
                             "accessibilityText": "screenshot 2",
-                            "url": "https://xabdoat.github.io/assets/imgs/Screen.png"
+                            "url": "https://xabdoat.github.io/repo/assets/imgs/Screen.png"
                         },
 						{
                             "accessibilityText": "screenshot 3",
-                            "url": "https://xabdoat.github.io/assets/imgs/Screen.png"
+                            "url": "https://xabdoat.github.io/repo/assets/imgs/Screen.png"
                         },
                     ]
                 },
