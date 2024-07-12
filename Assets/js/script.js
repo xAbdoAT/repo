@@ -20,16 +20,25 @@ window.addEventListener('load', () => {
   loading.style.display = 'none';
 });
 
-// Click-to-copy repo URL
+// Handle repo links
 const repoUrl = 'https://xabdoat.github.io/repo/';
 const links = document.querySelectorAll('.link');
 links.forEach(link => {
   link.addEventListener('click', (e) => {
     if (!link.classList.contains('social-link')) {
-      e.preventDefault();
-      navigator.clipboard.writeText(repoUrl).then(() => {
-//        alert('Repo URL copied to clipboard!');
-      });
+      // Check if the device supports the custom URL scheme
+      const userAgent = navigator.userAgent.toLowerCase();
+      const isIOS = /iphone|ipad|ipod/.test(userAgent);
+      const isAndroid = /android/.test(userAgent);
+      
+      if (isIOS || isAndroid) {
+        return;
+      } else {
+        e.preventDefault();
+        navigator.clipboard.writeText(repoUrl).then(() => {
+          alert('Repo URL copied to clipboard!');
+        });
+      }
     }
   });
 });
