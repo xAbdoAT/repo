@@ -34,6 +34,23 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
 
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.4-4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 4324
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Size: 1308366
+MD5sum: 07d89d2dbbb2bd47fcf9f4e8fd386ce2
+SHA1: f9bfe66c7bf997c7b87e6987a093c2226130a30a
+SHA256: f3eb70ca27c2b8e7489e6948b2e99d73a6e3d10f0dfc2f72ac17991d85aaa435
+SHA512: faec06f02d076b8bb46e7e4708ea40949af62d86c14dabdd060c6b45f07e34ee176c6fd51f61940a3439272c804466d55e82d930973b752d744ef46df30b13c1
+Description: Decrypt iOS Apps and Plugins
+Name: DumpDecrypter
+Author: Netskao
+
 Package: com.opa334.crane
 Architecture: iphoneos-arm
 Version: 1.3.13
