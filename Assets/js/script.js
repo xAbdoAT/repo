@@ -21,7 +21,7 @@ window.addEventListener('load', () => {
 });
 
 // Handle repo links
-const repoUrl = 'https://xabdoat.github.io/repo/';
+const repoUrl = 'https://abdo.is-a.dev/repo/';
 const links = document.querySelectorAll('.link');
 links.forEach(link => {
   link.addEventListener('click', (e) => {
