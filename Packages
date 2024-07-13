@@ -15,46 +15,6 @@ Description: An awesome MobileSubstrate tweak!
 Name: Pyto-rootless
 Author: Pay Ne
 
-Package: com.abdo.anouk
-Architecture: iphoneos-arm64
-Version: 1.1.1
-Section: Tweaks
-Maintainer: xAbdoAT
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.abdo.anouk_1.1.1_iphoneos-arm64.deb
-Size: 191548
-MD5sum: 54ece5e1ea2b98ae5a1c48602efc917c
-SHA1: 2deab40459c629570af4872ee693f8a33d941292
-SHA256: 769b4fac1e2421a486c0876eb811171dda244b2186a464f90b7c62741359b733
-SHA512: 727621bad786b18ab6851201158396224d7f55536a90311cae07e72c1f4832ec5fc50affe6a70fabf46a3a1b3e52a2d72afdd1e993254809ffa4c7684bfc15c9
-Description: Authentication for the hidden & Recently Deleted albums.
-Author: xAbdoAT
-Name: Anouk
-Depiction: https://xabdoat.github.io/depic/Anouk/index.html
-Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
-Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
-
-Package: com.abdo.anouk
-Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Maintainer: xAbdoAT
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.abdo.anouk_1.1.2_iphoneos-arm64.deb
-Size: 191484
-MD5sum: 92741fb156a9ad8866e19b07c50ce56c
-SHA1: 38fccd91a832ff491f1b61bd71e8203fe266c17a
-SHA256: 590b7b03fea3728721192739fafaeb5bf64014f2e2ee96cc1e0976355e7f044e
-SHA512: 18e33c7f7803f05dfa2bbf28a07c43712242e79b8c3ac434684cc2757fc31fe26381d84798067d727d886182ec7d4806843dcdd823bc06ddbcc2fa2d1d684f1d
-Description: Authentication for the hidden & Recently Deleted albums.
-Name: Anouk
-Author: xAbdoAT
-Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
-Depiction: https://xabdoat.github.io/depic/Anouk/index.html
-Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
-
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -73,6 +33,24 @@ Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm
+Version: 1.3.13
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3356
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.3.13_iphoneos-arm.deb
+Size: 616836
+MD5sum: 6b73ba700bcaca9fa89fc722e7835a26
+SHA1: 1279b5234d987675386ad737dcafee627bdab5b2
+SHA256: 04afacc8299933fca9875b68bb3936ad1ef6b7f5981a69eb66891513c2f3380e
+SHA512: 7070bdc2584513650b5cea04556f7abe0d2c8c736084f28cd348d907c16f2719468bfbdf509120b4a1581369197eb3e56525b4b00a03c2d1a31818cc16072146
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
 
 Package: com.peem.wattpadmatrix
 Architecture: iphoneos-arm
