@@ -1,14 +1,133 @@
-Package: com.brend0n.nopassafterrespringsafe
-Version: 0.0.2
-Architecture: iphones-arm64
+Package: cn.payne.pyto-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.1-8+debug
+Section: Tweaks
+Maintainer: Pay Ne
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.payne.pyto-rootless_0.0.1-8+debug_iphoneos-arm64.deb
+Size: 3074
+MD5sum: 3c4946cabe8c87febcfe50f6fe48ee58
+SHA1: f48280b1d51e840e5a478d0a68e9c49150cea8d1
+SHA256: c5b440de03d893a4ef5e929f4b0f3c5547bf62bd2a8a0013d442eef6e66ddebd
+SHA512: ecb2f8a08a721ce1c31b079fb10c979de4304b93f13e850f7bb936ad5632c3e278040394eb4f895e53af51d4154aa64cd9292dd34d211e966795c184023f7ae3
+Description: An awesome MobileSubstrate tweak!
+Name: Pyto-rootless
+Author: Pay Ne
+
+Package: com.abdo.anouk
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
 Maintainer: xAbdoAT
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abdo.anouk_1.1.1_iphoneos-arm64.deb
+Size: 191548
+MD5sum: 54ece5e1ea2b98ae5a1c48602efc917c
+SHA1: 2deab40459c629570af4872ee693f8a33d941292
+SHA256: 769b4fac1e2421a486c0876eb811171dda244b2186a464f90b7c62741359b733
+SHA512: 727621bad786b18ab6851201158396224d7f55536a90311cae07e72c1f4832ec5fc50affe6a70fabf46a3a1b3e52a2d72afdd1e993254809ffa4c7684bfc15c9
+Description: Authentication for the hidden & Recently Deleted albums.
+Author: xAbdoAT
+Name: Anouk
+Depiction: https://xabdoat.github.io/depic/Anouk/index.html
+Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
+Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
+
+Package: com.abdo.anouk
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: xAbdoAT
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.abdo.anouk_1.1.2_iphoneos-arm64.deb
+Size: 191484
+MD5sum: 92741fb156a9ad8866e19b07c50ce56c
+SHA1: 38fccd91a832ff491f1b61bd71e8203fe266c17a
+SHA256: 590b7b03fea3728721192739fafaeb5bf64014f2e2ee96cc1e0976355e7f044e
+SHA512: 18e33c7f7803f05dfa2bbf28a07c43712242e79b8c3ac434684cc2757fc31fe26381d84798067d727d886182ec7d4806843dcdd823bc06ddbcc2fa2d1d684f1d
+Description: Authentication for the hidden & Recently Deleted albums.
+Name: Anouk
+Author: xAbdoAT
+Icon: https://xabdoat.github.io/assets/icons/anouk/icon.png
+Depiction: https://xabdoat.github.io/depic/Anouk/index.html
+Sileodepiction: https://xabdoat.github.io/depic/Anouk/AnoukDepiction.json
+
+Package: com.brend0n.nopassafterrespringsafe
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
 Depends: mobilesubstrate
-Conflicts: 
-Filename: .debs/com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64.deb
+Filename: ./debs/com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64.deb
 Size: 5380
 MD5sum: f6017808eadd0e3ffa04d5318f537e22
 SHA1: 7dcae22a3f073c66f10323a4854bb17a95c51614
 SHA256: 38865ebb66a28061b6a7d520805aeb55efca546705a13102a86633c3067b741d
-Section: Tweaks
-Depiction: Disables passcode after a respring.
+SHA512: ce86e9e05932cd5674b4f5785dd89c1438523225ad18cbf6564484776f2b4dc632de83355f33fabfc7136b6b5427209a5cdd3d6dc001a566984ec6f4d25387e7
+Description: Disables passcode after a respring.
 Name: NoPassAfterRespring (Safe)
+Author: Brend0n <brendonjkding@126.com>
+Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
+SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
+
+Package: com.peem.wattpadmatrix
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: CRACKED<MATRIX>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/com.peem.wattpadmatrix_0.0.1_iphoneos-arm.deb
+Size: 7622
+MD5sum: db096a09b6d47644a1556eed22b98c17
+SHA1: 06697dc55a0933d668e1c94bee7942c0d3c5915e
+SHA256: 4de6feb83b4f59eef5dbfcac4c2d05f6d18ca0cbf5d3d3eb971ad9e07fdb0cb0
+SHA512: df999e7a6a73b2c76c50e5d9cd9a67aaa74365fb951c7e9cb5f560309883f90699dcf3057c968f2bbb940f42746d2185fb81ac57bb0b86c7ba8ede35e6a7d562
+Description: Crack Premium By MATRIX
+Name: Wattpad MATRIX
+Author: MATRIX <PREMIUM>
+
+Package: com.yan.anouk
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yan.anouk_1.1.1_iphoneos-arm64.deb
+Size: 191400
+MD5sum: 399df6a4bd00cac1312b5e6e6cda37b4
+SHA1: 5711d317764fdf3da1c6faf888cfc8263a87a3c9
+SHA256: aab91242e1f61550f3c9ddb0f9480c93ba1028bf0ee93d66ec56b5b58c75415f
+SHA512: 5cb343ef00851233af7b2d7a4b6f4d68498c34e97190aa16ba44b06f59f920cf76b477a636d577692a8b1e527584d54973a99e220aee59ea2c6da58e991e38da
+Description: Authentication for the hidden album.
+Name: Anouk
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
+Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+
+Package: com.yan.anouk
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yan.anouk_1.1.2_iphoneos-arm64.deb
+Size: 191374
+MD5sum: 4b70f7a8718630a06f24db48adc9c492
+SHA1: ecf0822d05c1e1d2b1bd1e72a42de2a7f47241c0
+SHA256: 1433469b63a3c72e0bebdb8e338c9f7c27a5502c5557fc8cbc54e8627add1e4d
+SHA512: 2d1e990dcddc533fbec6bf21530f265368bd4fa8ef89234cbab0b88274496d88f032e95ad5834b08be1ae56ff3a8a33d945ba05dccd4e33a67b70a800468e9ee
+Description: Authentication for the hidden album.
+Name: Anouk
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
+Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+
