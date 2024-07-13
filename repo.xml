@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on X</name>
+            <url>https://x.com/xAbdoAT</url>
+            <iconclass>fa-brands fa-x-twitter</iconclass>
+        </link>
+        <link>
+            <name>Visit My Website</name>
+            <url>https://abdo.is-a.dev/</url>
+            <iconclass>fa-solid fa-globe</iconclass>
+        </link>
+    </footerlinks>
+</repo>
