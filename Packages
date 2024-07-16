@@ -1,20 +1,3 @@
-Package: cn.payne.pyto-rootless
-Architecture: iphoneos-arm64
-Version: 0.0.1-8+debug
-Section: Tweaks
-Maintainer: Pay Ne
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/cn.payne.pyto-rootless_0.0.1-8+debug_iphoneos-arm64.deb
-Size: 3074
-MD5sum: 3c4946cabe8c87febcfe50f6fe48ee58
-SHA1: f48280b1d51e840e5a478d0a68e9c49150cea8d1
-SHA256: c5b440de03d893a4ef5e929f4b0f3c5547bf62bd2a8a0013d442eef6e66ddebd
-SHA512: ecb2f8a08a721ce1c31b079fb10c979de4304b93f13e850f7bb936ad5632c3e278040394eb4f895e53af51d4154aa64cd9292dd34d211e966795c184023f7ae3
-Description: An awesome MobileSubstrate tweak!
-Name: Pyto-rootless
-Author: Pay Ne
-
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -51,40 +34,25 @@ Description: Decrypt iOS Apps and Plugins
 Name: DumpDecrypter
 Author: Netskao
 
-Package: com.opa334.crane
+Package: com.yan.anouk
 Architecture: iphoneos-arm
-Version: 1.3.13
+Version: 1.1.1
 Section: Tweaks
-Maintainer: opa334
-Installed-Size: 3356
-Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/com.opa334.crane_1.3.13_iphoneos-arm.deb
-Size: 616836
-MD5sum: 6b73ba700bcaca9fa89fc722e7835a26
-SHA1: 1279b5234d987675386ad737dcafee627bdab5b2
-SHA256: 04afacc8299933fca9875b68bb3936ad1ef6b7f5981a69eb66891513c2f3380e
-SHA512: 7070bdc2584513650b5cea04556f7abe0d2c8c736084f28cd348d907c16f2719468bfbdf509120b4a1581369197eb3e56525b4b00a03c2d1a31818cc16072146
-Description: Multiple containers for your applications!
-Name: Crane
-Author: opa334
-
-Package: com.peem.wattpadmatrix
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Tweaks
-Maintainer: CRACKED<MATRIX>
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/com.peem.wattpadmatrix_0.0.1_iphoneos-arm.deb
-Size: 7622
-MD5sum: db096a09b6d47644a1556eed22b98c17
-SHA1: 06697dc55a0933d668e1c94bee7942c0d3c5915e
-SHA256: 4de6feb83b4f59eef5dbfcac4c2d05f6d18ca0cbf5d3d3eb971ad9e07fdb0cb0
-SHA512: df999e7a6a73b2c76c50e5d9cd9a67aaa74365fb951c7e9cb5f560309883f90699dcf3057c968f2bbb940f42746d2185fb81ac57bb0b86c7ba8ede35e6a7d562
-Description: Crack Premium By MATRIX
-Name: Wattpad MATRIX
-Author: MATRIX <PREMIUM>
+Maintainer: yan
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yan.anouk_1.1.1_iphoneos-arm.deb
+Size: 191328
+MD5sum: 6580cc3cb02a581a1b78515a1c84c21f
+SHA1: 124ee32dcc103f7ca90dc2cd3c712dcfa6f5a0e2
+SHA256: 2cedbcb8cef075920def70f9bddf29ba44faa8719436d0a8f4fedd6e6e6eb38a
+SHA512: 6f91d1c5055462c5e6de9aadba95ac2325a5ccfcfef52e6f28d2a063a71c2c1a5aca0c5df882d9a9a5b45fed6dfd71fc43f92482817a13b29a6315ec429c90c2
+Description: Authentication for the hidden album.
+Name: Anouk
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
+Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
 
 Package: com.yan.anouk
 Architecture: iphoneos-arm64
@@ -99,6 +67,26 @@ MD5sum: 399df6a4bd00cac1312b5e6e6cda37b4
 SHA1: 5711d317764fdf3da1c6faf888cfc8263a87a3c9
 SHA256: aab91242e1f61550f3c9ddb0f9480c93ba1028bf0ee93d66ec56b5b58c75415f
 SHA512: 5cb343ef00851233af7b2d7a4b6f4d68498c34e97190aa16ba44b06f59f920cf76b477a636d577692a8b1e527584d54973a99e220aee59ea2c6da58e991e38da
+Description: Authentication for the hidden album.
+Name: Anouk
+Author: yan
+Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
+Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+
+Package: com.yan.anouk
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yan.anouk_1.1.2_iphoneos-arm.deb
+Size: 191258
+MD5sum: d9dfe78f76d9620ad7082ef95a36c3eb
+SHA1: b2c0fdb69a3e1083f8852b19bab3068beb856cad
+SHA256: 045df9cf979acfdd8cecd1be0cc681c63778b0096238c20a4c562c22aae3d658
+SHA512: 41dc06ca3e2e0566dcf48c61aca01273bf6d3fbd003cdf89e2bb1d44a554cd856656a0e2a2d48aa17fb5e73702dc53e4e06b98b3efd8328b8d16ded3da737b82
 Description: Authentication for the hidden album.
 Name: Anouk
 Author: yan
