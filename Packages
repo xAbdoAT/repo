@@ -17,62 +17,62 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
 
-Package: com.netskao.dumpdecrypter
-Architecture: iphoneos-arm64
-Version: 1.4-4
-Section: Netskao-Tweaks
-Maintainer: Nets
-Installed-Size: 4324
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
-Size: 1308366
-MD5sum: 07d89d2dbbb2bd47fcf9f4e8fd386ce2
-SHA1: f9bfe66c7bf997c7b87e6987a093c2226130a30a
-SHA256: f3eb70ca27c2b8e7489e6948b2e99d73a6e3d10f0dfc2f72ac17991d85aaa435
-SHA512: faec06f02d076b8bb46e7e4708ea40949af62d86c14dabdd060c6b45f07e34ee176c6fd51f61940a3439272c804466d55e82d930973b752d744ef46df30b13c1
-Description: Decrypt iOS Apps and Plugins
-Name: DumpDecrypter
-Author: Netskao
-
-Package: com.yan.anouk
+Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
-Version: 1.1.1
+Version: 5.0.2
 Section: Tweaks
-Maintainer: yan
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yan.anouk_1.1.1_iphoneos-arm.deb
-Size: 191328
-MD5sum: 6580cc3cb02a581a1b78515a1c84c21f
-SHA1: 124ee32dcc103f7ca90dc2cd3c712dcfa6f5a0e2
-SHA256: 2cedbcb8cef075920def70f9bddf29ba44faa8719436d0a8f4fedd6e6e6eb38a
-SHA512: 6f91d1c5055462c5e6de9aadba95ac2325a5ccfcfef52e6f28d2a063a71c2c1a5aca0c5df882d9a9a5b45fed6dfd71fc43f92482817a13b29a6315ec429c90c2
-Description: Authentication for the hidden album.
-Name: Anouk
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
-Depiction: https://yandevelop.github.io/depic/Anouk/index.html
-Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm.deb
+Size: 6095998
+MD5sum: 1a662ef033f79affc3f1d4b0b55ba738
+SHA1: 90e584efce3d6f5a9c50708f66e60017589bf10d
+SHA256: 5f43163e37c1f52f4c4445d56fc6a1add97832880a7b65e14c509eb79b728d90
+SHA512: 51977a5b94678b440517f5b167c66902e936d439ff5a0b0673478f1fa9a095cbd153d259271e314f43d00ff2302bf0241765e028795b85b4ce09e37883e5539a
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
-Package: com.yan.anouk
+Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
-Version: 1.1.1
+Version: 5.0.2
 Section: Tweaks
-Maintainer: yan
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yan.anouk_1.1.1_iphoneos-arm64.deb
-Size: 191400
-MD5sum: 399df6a4bd00cac1312b5e6e6cda37b4
-SHA1: 5711d317764fdf3da1c6faf888cfc8263a87a3c9
-SHA256: aab91242e1f61550f3c9ddb0f9480c93ba1028bf0ee93d66ec56b5b58c75415f
-SHA512: 5cb343ef00851233af7b2d7a4b6f4d68498c34e97190aa16ba44b06f59f920cf76b477a636d577692a8b1e527584d54973a99e220aee59ea2c6da58e991e38da
-Description: Authentication for the hidden album.
-Name: Anouk
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
-Depiction: https://yandevelop.github.io/depic/Anouk/index.html
-Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6099626
+MD5sum: 0e980aabb1450344e5c83059d4015d6c
+SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
+SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
+SHA512: 91378bec9d297d4f2c4eeaa149ba6b4addb644ec245da3203a48cbcc95c6ff427e2136627223ef68865b980b352f1c54ef3df3621f1895c54cfa712e24422943
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6099804
+MD5sum: 971dc6e215031ef7d4cf167f5b0c3944
+SHA1: 8e6c0645a3ae4684fe5258fbae33e4f8fb5ee399
+SHA256: eb3f94022e499fafe4c898e8f58c6da17c02f1d5c269761b1d1e19930c3409f5
+SHA512: 906286b93deb1df00be902a02a754317245beec3d1aed6716428552465a3d322db9595fc22ac03cfbff54dee33b6db95648b94ab20e7a6c176ce1def09044f6a
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.yan.anouk
 Architecture: iphoneos-arm
