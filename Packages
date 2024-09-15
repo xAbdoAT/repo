@@ -74,6 +74,58 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.sniper.telesniper
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Sniper @DNS_Sys
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.telesniper_iphoneos-arm.deb
+Size: 123278
+MD5sum: 24e20962c88153fd0a022930c1f02209
+SHA1: 7c5f293f288882cc38822ee5e85c876adcf531de
+SHA256: 8104462950f709e183e8331c3ea71518286f3161d9196a8fc26e86a367508a45
+SHA512: 0e2e3f347f88cd503dd1ca0a0268a707df7f4f6901225c7fc670e6220d1124691e05b9cadc39e803c7b03eca6f5cfa376c4fa13ac72897be1ebafc5ee5e57703
+Description: Sniper @DNS_Sys
+Name: TeleSniper
+Author: Sniper @DNS_Sys
+
+Package: com.sniper.telesniper
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Sniper @DNS_Sys
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.telesniper_iphoneos-arm64.deb
+Size: 124200
+MD5sum: 8de94a05521e602aea832923e43c5f8f
+SHA1: 18c5dfa194bfad62bb607ea232254db27cd08ee7
+SHA256: 59077b7ca1dbf028da547a94d005376df004edc660a1ad2c7bb3941afcc192f6
+SHA512: 55c7682eca49422a8514199d28b8085940c9b91b93b8161d51b23203670a3133c4e9c406037902cd19f50582300a30b3b4886dfccf08adbc45a2162b955372fa
+Description: Sniper @DNS_Sys
+Name: TeleSniper
+Author: Sniper @DNS_Sys
+
+Package: com.sniper.telesniper
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Sniper @DNS_Sys
+Installed-Size: 316
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.telesniper_iphoneos-arm64e.deb
+Size: 152524
+MD5sum: 643608b66387b2348c1a202535d6bec4
+SHA1: fb569918b467ea93a867882ef603f685a8fb21b0
+SHA256: 13a9926b25b4bf731385cdcde214983e1b5145669cb744a20506d67e90427f2b
+SHA512: 7ab646a2dca244e8381f70d26f2c1e7491f02f021446c61f3e8d2b155e988001b6bf0ec0b0efee57d93ec42832d60e4efc9aeb2e8a368023fa07c8bd4e131075
+Description: Sniper @DNS_Sys
+Name: TeleSniper
+Author: Sniper @DNS_Sys
+
 Package: com.yan.anouk
 Architecture: iphoneos-arm
 Version: 1.1.2
