@@ -74,6 +74,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.roothide.varclean
+Architecture: iphoneos-arm64
+Version: 0.7
+Section: Utilities
+Maintainer: RootHide , @Waji1h <a4237019c0@emailabox.pro>
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.roothide.varclean_0.7_iphoneos-arm64.deb
+Size: 733168
+MD5sum: 24af7392717359f96797e6663b65698a
+SHA1: 7219aaf10418567ce269deaaf603ac9b1341e3b4
+SHA256: 9354b710f3ec085daa53648e3c5477616d67ee9833008b8c99b1103d493bf79d
+SHA512: 843011878252973f8d58f95ade4ab5c20565fbe92e4be25645ee36e0f7cd2b6946bd7e59df5494b18ee31981b90f1bdba8f59ec235a02327c2059dd3daae2141
+Description: RootHide's varClean Feature for rootless JB's by Wajih AL-Mehdhar
+Name: varClean
+Author: RootHide <a4237019c0@emailabox.pro>
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/main/assets/icons/varclean.png
+
 Package: com.sniper.telesniper
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -125,6 +142,25 @@ SHA512: 7ab646a2dca244e8381f70d26f2c1e7491f02f021446c61f3e8d2b155e988001b6bf0ec0
 Description: Sniper @DNS_Sys
 Name: TeleSniper
 Author: Sniper @DNS_Sys
+
+Package: com.xabdoat.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.xabdoat.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 980988
+MD5sum: ddb3eef9671aee9eabd5cc7963697e80
+SHA1: 735cd0ab681fcf3788553c7b2f38fbe75b084e94
+SHA256: c78cf5673446a25e8f11a4079fa0e4926292302330293fe12cb1ecffeabb6d7a
+SHA512: 750d48af59b63d78a44cea808bcc6d7d7969bb8e0c11d2e3480dd50939c7291cdb09c790e485269529aa890b05a113d1b115f204434a7b152bb889c9c1ce8266
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/main/assets/icons/icleanerpro.png
 
 Package: com.yan.anouk
 Architecture: iphoneos-arm
