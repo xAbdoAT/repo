@@ -361,3 +361,21 @@ Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
 Depiction: https://yandevelop.github.io/depic/Anouk/index.html
 Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
 
+Package: dev.zero.wickedfree
+Architecture: iphoneos-arm64
+Version: 2.0.3a
+Section: Tweaks
+Maintainer: zero
+Depends: mobilesubstrate
+Conflicts: dev.zero.wicked
+Filename: ./debs/dev.zero.wickedfree_2.0.3a_iphoneos-arm64.deb
+Size: 3685344
+MD5sum: 73ed75ba22afdba947fdae641577c5bc
+SHA1: cb3bd4e0755d97f3ed7d6b0f73730b112f44714b
+SHA256: 368770436fe4d2e0a6974c9bec3a5224114d4f35997543ba11b59cc165533551
+SHA512: 9a1b0b698506827e9aa6f70c2090dd815235129ba7fef87233e7c2a4acacb101bb0ea607e5215b9e12bdab96f20dda19850dc8ac8a12820875088d1087f6cdf0
+Description: Free Wicked 2.0.3a for Snapchat 12.38.1. 15 characters needed for the license and the email can be any random email address.
+Author: zero
+Name: wicked
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Wicked.PNG
+
