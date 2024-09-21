@@ -17,6 +17,60 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
 
+Package: com.dvntm.safariii
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm.deb
+Size: 3028
+MD5sum: b55369ba64ded14673ba8cb29a2d6f63
+SHA1: 073891cdedffec8278f4ae96347ab8696500c828
+SHA256: 33f874b28ebaaac12ec1cf689388c77804471de8a17cd1f9e2a247a736781ddc
+SHA512: dda010785846479d51f94aa715e5e3eb6193f24979b31c318b2c93d03c3ab12c7fd4e6a669d1e5671be9651c80448db5b5ef7b8768283774e71930cf80ad9401
+Description: Displays menu buttons on startup page in Adress bar, Hides Extensions icon from Adress bar, For iOS15+, no options to configure.
+Name: Safariii
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Safariii.JPG
+
+Package: com.dvntm.safariii
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64.deb
+Size: 3100
+MD5sum: 6a22de22ba2479a6bdc58d263d84e9a8
+SHA1: 298973bf32aa309ccbc8a2bcc71fe819c29b0da3
+SHA256: b1ed087c5f686631b826f37614e17374d597fa6216c8e7eb19ccfc5c44c58e6d
+SHA512: 03cd41bc4f455377a41eb044f9c0c53febfbe3fc902936d9a0c2b14a4f1ae6cd142fbf3a40bf59d83b43497f25989a35ae19a3ab40b512fed29e519cc2aeb09b
+Description: Displays menu buttons on startup page in Adress bar, Hides Extensions icon from Adress bar, For iOS15+, no options to configure.
+Name: Safariii
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Safariii.JPG
+
+Package: com.dvntm.safariii
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
+Size: 3024
+MD5sum: 1f5631c55a0ee61cc04ed3ea4cc12425
+SHA1: b07b1b6322d1b1f588f0d5ee82e63ab98a866e62
+SHA256: 73018525dc5fa39bc2a2328322911de21f74ff09614b21111d6fca8436641542
+SHA512: 6a4ae0928d82fd22aa83ae9b6c3343aa072a83eb12037507d083521ef82fa7a8792aa3b98edf06e5c99fd453672c9a70c73539f9592a5b37f07ec6f49a761a65
+Description: Displays menu buttons on startup page in Adress bar, Hides Extensions icon from Adress bar, For iOS15+, no options to configure.
+Name: Safariii
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Safariii.JPG
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
@@ -142,6 +196,111 @@ SHA512: 7ab646a2dca244e8381f70d26f2c1e7491f02f021446c61f3e8d2b155e988001b6bf0ec0
 Description: Sniper @DNS_Sys
 Name: TeleSniper
 Author: Sniper @DNS_Sys
+
+Package: com.xabdoat.adblockpro
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.adblockpro_0.1_iphoneos-arm64.deb
+Size: 43148
+MD5sum: 079f487346ff77ed83a31ea935a3d186
+SHA1: 59c4a203c2e83dc758e1449990ea0be00be46135
+SHA256: 8f830c5a2a153bb996e7a2a9570d8cba8fad935133d86d642d338fbe9d41840b
+SHA512: 49965b1517936d8a2dc3f77c33515e6daf6a59bfd5c53f6371131b800abe5df85af657fbcb1535c7bc2d49f66b8278f2f9dffc19e64357c18ff50f73911ce9bf
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: AdBlock Pro
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/AdBlockPro.JPG
+
+Package: com.xabdoat.adblockpro
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.adblockpro_0.1_iphoneos-arm64e.deb
+Size: 58832
+MD5sum: e033372cdf22a03e3c546f2991492765
+SHA1: e6d2e0141356f4576e219753c9848827e5157034
+SHA256: 4331bc01343ba4309ed343b8e9396fa2680bd1559a3252199ae1fae11f15bcfb
+SHA512: 61a6063c9839ac88e5d3decc1c79113c12d9bd7d99f7912b59080481fac35bde322a7df77ddd5a3d049741432d9bfb3cb71f84691c97a255356d66061b840619
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: AdBlock Pro
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/AdBlockPro.JPG
+
+Package: com.xabdoat.athkar
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.athkar_0.1_iphoneos-arm64.deb
+Size: 44244
+MD5sum: 610f52cd003bd94a4b963083e75384c1
+SHA1: da4cbc0ee09e9ee510fd130e229f0bfcd72cac83
+SHA256: ca20091bc6937943c14124c3e95c29a7c186b8e4f4146491d864d9397aa9fead
+SHA512: e9ec709f7389b06e9b23b7858fd4c3bc72e4d2b097e6342c0329153cb11741829f7a75e378fbe394502bcbe97c25e21180ec74d93adc2ad5624b86538d2796c7
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: Athkar | أذكار
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Athkar.JPG
+
+Package: com.xabdoat.athkar
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.athkar_0.1_iphoneos-arm64e.deb
+Size: 60260
+MD5sum: f53f70dd983473e561c1511d4ecbb1a7
+SHA1: 66562c5049ef44d6261c7e358f5fd49d7edee633
+SHA256: 208dd859bee2de1e56bd0637387c03f596b468caf39a0ba77eea3643c43b6d01
+SHA512: f0f9a3ed025dfef6fdcf3ffe2261d80a0873b4908ecec49967fd2dcf3e372b0b26b929d15249c4567c938b037c04e7c1d03e5e70dfcb7a1a2f09e1da3379e59d
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: Athkar | أذكار
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Athkar.JPG
+
+Package: com.xabdoat.hammel
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.hammel_0.1_iphoneos-arm64.deb
+Size: 94452
+MD5sum: f4eaa8986235f3045a3ba383bd434e04
+SHA1: 74dcd1ff4b235468c7ebd78107adde54ce4f188e
+SHA256: 9bd1568f9bb8f1b40380fe5fe675cb34ee3ee435bcc714e289f9258bcb0a71cb
+SHA512: 62f947da8bb8b5ff1f3df17335f840ea44d1ec4341156e3ae2f32a1a0eb8c7d9ebd3f2e74221737562208ce6bc06e7df80e4a1da94be635e6944ae2430f93b14
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: Hammel | إدارة الملفات
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/FileManager.JPG
+
+Package: com.xabdoat.hammel
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Cracks
+Maintainer: Haidar_Phantom <a4237019c0@emailabox.pro>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.xabdoat.hammel_0.1_iphoneos-arm64e.deb
+Size: 129092
+MD5sum: da933b17a856322d6380c2c740f5aae9
+SHA1: 3904992f44c701e07cc3b4d5daadf05704663d79
+SHA256: a7a29eb2f2bb98ce49d4827426d3b93f626166faa554fdd508bed0d2c87ae2cf
+SHA512: 6a2cf8eacb60d76cbc943c6b648a74deb04c3508618b73da206f4e944e927b5b3622ffa77e31ec33aa250183fe25c565ca842b43b9bae15777b28c46c54a0fe4
+Description: Enable Premium Subscription
+Author: Haidar_Phantom <a4237019c0@emailabox.pro>
+Name: Hammel | إدارة الملفات
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/FileManager.JPG
 
 Package: com.xabdoat.icleanerpro
 Architecture: iphoneos-arm64
