@@ -379,22 +379,20 @@ Author: zero
 Name: wicked
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Wicked.PNG
 
-Package: dev.zero.wickedfree
-Architecture: iphoneos-arm64e
-Version: 2.0.3a
+Package: ru.rejail.filzadirprobe
+Architecture: iphoneos-arm64
+Version: 1.4.1
 Section: Tweaks
-Maintainer: zero
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: dev.zero.wicked
-Filename: ./debs/dev.zero.wickedfree_2.0.3a_iphoneos-arm64e.deb
-Size: 3686480
-MD5sum: 47d0ff5ff5efbe4d297b49058522cf2f
-SHA1: 00ed0e152325796ba7b8aee56ba8ef6a3e33d78e
-SHA256: e3a8488da1592b9c2de65226e067ea33d9eac370be4dd2ebc99af3e38800bead
-SHA512: 96cffdfa02e26a8d0ca4b1f675a179ba7675fce109f6a3c4a063bc44dd78016ac77507ec6550e268bdc268c465c5d5ea1dbfe941332d85bec9772450554c14d7
-Description: Free Wicked 2.0.3a for Snapchat 12.38.1. 15 characters needed for the license and the email can be any random email address.
-Author: zero
-Name: wicked
-Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Wicked.PNG
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/ru.rejail.filzadirprobe_1.4.1_iphoneos-arm64.deb
+Size: 40620
+MD5sum: c76653ab837ded8188fdfa8a6a0679de
+SHA1: b03f7a94b6a875bf878ff2ab1a9e2f673a91ece1
+SHA256: 74e7a3ade39241751f47f54ede68f23b81c35bc81e79d513e57da1b8dfdd0e57
+SHA512: fa45de124835176d29c3180baa90ed2dd9b941843fb714ba8a33ebf071548d396f3876342ed44d88d8fba9de7902f2f7ee3da97302750ba9d7cfec1f9aae3835
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Name: FilzaDirProbe
+Author: 0xkuj
+Depiction:
 
