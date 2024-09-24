@@ -396,3 +396,21 @@ Name: FilzaDirProbe
 Author: 0xkuj
 Depiction:
 
+Package: ru.rj.filzadirprobe
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 364
+Filename: ./debs/ru.rj.filzadirprobe_1.4.1_iphoneos-arm.deb
+Size: 40452
+MD5sum: 160ad8aefa6236e0d1e3c4765faedba2
+SHA1: a67053e5c2dd3c93c2c2c141896a71069919c2c4
+SHA256: a387ff6600f33d216e1b644e88df32c50bcef455328d19e46bb6bf9449b7911c
+SHA512: e9acd32646ffd6334f650b9bfa06699893d385c169f111252549b7fa5c5596de15366e5b1a6f3af13da963c4f41ba3d4223f7ccf68b12b9fa032c2ed04e382fc
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Name: FilzaDirProbe
+Author: 0xkuj
+Depiction: https://rejail.ru/depiction.php?file=filzadirprobe
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=filzadirprobe
+
