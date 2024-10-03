@@ -172,6 +172,47 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
 
+Package: com.dcproducts.iossecuritysuitebypass
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Derek Calabro
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
+SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
+SHA256: 78523cbbb67a11043be7238c2ca535f8e8835d7244096d8c8a729fca3139a825
+SHA512: f3111e1775a9e829cbb40997347d8b846cb6836ef4a50b7ba1a4d8bd409a76262c595a67726ccb01262ee217661fdc8774376e30def5eb3546e304aae1ff0b61
+Description: A bypass for the iOSSecuritySuite Swift library.
+Name: iOSSecuritySuiteBypass
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+
+Package: com.dcproducts.iossecuritysuitebypass
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Derek Calabro
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_1.0.0_iphoneos-arm64e.deb
+Size: 3806
+MD5sum: bb2cd8c871eab5bc54dcccc382a5bc2d
+SHA1: 93875c604f51e0b8aa50510dc522718b38d4da2e
+SHA256: 35f9c48dfca4dc413d931bf405e718a09cbb357472848952adcab418ca7469df
+SHA512: 863757c75ff4ca265ac15435cd88770d0b029cdbb3edc0ef8dae427e826279fab76fcb74a032969dae066212ade636cc27c2688505b38444c9a78949beba1646
+Description: A bypass for the iOSSecuritySuite Swift library.
+Name: iOSSecuritySuiteBypass
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
 Version: 1.2.0
@@ -399,6 +440,43 @@ Name: iCleaner Pro
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/icleanerpro.png
 
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.4.34
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64.deb
+Size: 4492420
+MD5sum: 002df7ce59c900cdbfdb950ec3499754
+SHA1: 19c1a8a6a879e67252729d0b0c19f0649ea02db9
+SHA256: 403b75fc2122bcf9300e5736c13b39f9aa0b488a57597207b7dca3ae0e5c21bf
+SHA512: 09753f6168d9b7979309f36f9496531a29d9fbf0f2422939e20d3c3173bee5a8322125af58391503480a14a0c9c323e53dca839c3449b71cb10c3347a7697cc7
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.4.34
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Conflicts: org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2, xyz.cypwn.watusicrack, xyz.cypwn.watusitools, xyz.cypwn.regram, xyz.cypwn.regramcrack, xyz.cypwn.regramk, xyz.cypwn.watuzik, xyz.cypwn.fr33gram, xyz.cypwn.fouackoff, xyz.cypwn.stalky, xyz.cypwn.onlinenotify, xyz.cypwn.wtspatch, xyz.cypwn.fouackoff568297, xyz.cypwn.fouackoff729766, xyz.cypwn.freegram335030, xyz.cypwn.freegram342921
+Filename: ./debs/com.f0u4d.watusitools_2.4.34_iphoneos-arm64e.deb
+Size: 12186448
+MD5sum: 344dbb73febdf19e3df67e14137b627e
+SHA1: 357fa06ec26e733d408744be1b8e4aafd07d86db
+SHA256: f38a9bc8beccbcca7d74e202e3300f4ccb2a42f9df0cc681722fbfcb7319dc08
+SHA512: fac0e2c96d10c79b83ade53abf8d53bdb94eff66da766c20530594650570ff27508bef06d09b4b441149dc60ae3ed362ae0541d98bf4e6d6dc7f047c056c1cf1
+Description: Library for Watusi and WhatsApp tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
 Package: com.fissiondev.uranium
 Architecture: iphoneos-arm64
 Version: 1.2.7
@@ -566,6 +644,115 @@ Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
+Package: com.lenglengyu.iapstorefugu-rootless
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lenglengyu.iapstorefugu-rootless_0.0.2_iphoneos-arm64.deb
+Size: 41840
+MD5sum: 6f49738d470dbcb14226549032a9d544
+SHA1: a88d8d0381998af96fbaa11d56ed63967bc836d6
+SHA256: 7be2d2d28ae6940dad001d9c7a631558179db07a95bfd405c4409c32c1687550
+SHA512: 9fb38745f6db22dce8b35cb2df9c25bcafdbef7c5dd0662768200cd41ebb94718e8245045f53aa9f9eb74635b165662ede2c5eeb06ade60654878c6e5d23d64b
+Description: iap storekit
+Name: IAPStore
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/iapstorefugu.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/iapstorefugusileo
+
+Package: com.lenglengyu.iapstorefugu-rootless
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.lenglengyu.iapstorefugu-rootless_0.0.2_iphoneos-arm64e.deb
+Size: 57038
+MD5sum: 596901224eced48f9b3918c6842e9ccd
+SHA1: 1830958f8c9d91035195eaefd58f90d7c493727c
+SHA256: 71d4dfc7cca5cde2eca3d4366340e2d9da18e7594e66c425c5acc7f22a8e3e7b
+SHA512: 642b5f5bb204ef80bfc790a809417fdd7e0bffda1d20035a092ca1a93e99c7ea2dca2eade689cf72350370019518b727f23b93b58c6a394042a886839ee82db4
+Description: iap storekit
+Name: IAPStore
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/iapstorefugu.html
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/iapstorefugusileo
+
+Package: com.nathan.internalstoragesettings
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64.deb
+Size: 3860
+MD5sum: a8d5cabab357fd08bec861648ec9dbeb
+SHA1: ec724279da07746d3a788254ae281db6e41c9ec3
+SHA256: e592d1cfc5670fe90f86221722ed62ff60a5a24bd7e29b4c532062d1b5aac66c
+SHA512: 9ca02b0e973dc34e471e0e14948e2c7580389e8ffcb715a98fe0235be1e1c2c46e8d61c79d06f1e99fc88157e8cba2fc7e38397c58d3d456d72062bf93cf27d6
+Description: Tweak to enable the hidden storage settings
+Name: InternalStorageSettings
+Author: Nathan Senter
+
+Package: com.nathan.internalstoragesettings
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Nathan Senter
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/com.nathan.internalstoragesettings_1.0_iphoneos-arm64e.deb
+Size: 5426
+MD5sum: a148a51de4d055d275d86bdc850e73c2
+SHA1: 0035d9f8756e5d081c4b03362948aa41faba031d
+SHA256: dce704814eeb2fc50051620a0fbb4bc54d1d59370845dc0ac5f191284096e9f1
+SHA512: d1bd2cb27d98366d5b44cf08d7fc8870a25d4b141590d6f3ac8a45c3387b89c101ad79f8458dcb15e8c332cc5eec25e1ffd8676a76498c9a72ac2d5361792a87
+Description: Tweak to enable the hidden storage settings
+Name: InternalStorageSettings
+Author: Nathan Senter
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
+Size: 4854
+MD5sum: cca66bdffa18a3371e11060ec53eb563
+SHA1: fdc824f452c5de7d7548fcd3387618fc0debcd60
+SHA256: 31f598ea071c33ea3f207807f6d5c4fc78c590f20d04f0664da6321b62f3757e
+SHA512: ae426600132f450f4cf1b7eb268614d83b6858654d6ac3aee656f0061d16c477ec84d1c45f541245daf12f776f0a4d24978a1577eb785afb6456cf29dff198b6
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 6700
+MD5sum: f18685843c5117727c696fbb22e24a9f
+SHA1: 20f4f75610f0f332d180281e1b9d8d8c792d33cc
+SHA256: 3220d69df9820ad1f5f844cb6bf07e19d1f1da10eb8469577a6d8c5f9db2ae3b
+SHA512: f653fd95f41f084b272fb166ba78c1f16f22552e93655d301f92c2c349390d06893736016d796f817bd840f520dfaba72d32e69d67114dade1134729c5f70c51
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Name: Filza Crack
+Author: Netskao
 
 Package: com.roothide.varclean
 Architecture: iphoneos-arm64
@@ -890,6 +1077,49 @@ Author: XsF1re, ichitaso, level3tjg
 Name: vnodebypass
 Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/vnode.png
+
+Package: me.nixuge.networkmanager
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Control Center (Modules)
+Maintainer: Nixuge
+Installed-Size: 396
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64.deb
+Size: 37720
+MD5sum: 402214901aca2e45c30556ceb235c6a1
+SHA1: 2f986934a77a3a97876604913cff4fef84ba6f82
+SHA256: 98cc27a29834f7579b50ac0c60242b150dae0f8a29d1944a31a636614640544a
+SHA512: 70818cf76467994338144632722b10dc38568545569a4bdf4e9038722782671a8ce27d96db5a0d05dc27d222a72a2875b9fc743c9641e1e1c241d38ff07799ba
+Description: Force 2G/3G/4G/5G connection from the Control Center
+Name: NetworkManagerReborn
+Author: NoisyFlake, Nixuge
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: me.nixuge.networkmanager
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Control Center (Modules)
+Maintainer: Nixuge
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/me.nixuge.networkmanager_1.4.3_iphoneos-arm64e.deb
+Size: 46032
+MD5sum: a9dcbfa547869a9f7315aaa4692d0207
+SHA1: 52ee9684e53acfda9c6522c2ec83ed06101261d6
+SHA256: 5f96784e68112bb9aea2db0da64bd95f3cc593981a8347e1d603f3eac7832309
+SHA512: 47a626dac5be20eb3bd36714fdfab40f1ec8444d09cface8f3c5e9bca70392105ced03f6c5a9ee2e21ea9c047c72da966339944311586b7bd071632555a5d150
+Description: Force 2G/3G/4G/5G connection from the Control Center
+Name: NetworkManagerReborn
+Author: NoisyFlake, Nixuge
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 
 Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64
