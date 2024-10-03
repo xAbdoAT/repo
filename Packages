@@ -645,6 +645,45 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64.deb
+Size: 28710
+MD5sum: efae35a2879d140279dfbf6c2cc7ea46
+SHA1: 8d7267da91e7bf4858d61d3a082ef916209d1379
+SHA256: 6525a6b0ace53b959b949315b51f0e9a6675daff82d71ce116cb49d2122af02f
+SHA512: 5e3a6eb9db08ed812b6da730b7a640dd477585d97946c69fe43a54523d89241d98b7685789f9fd8ca8c8fa2759c363117305bcde1b121d4d40e1c48a539e4abb
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.kdt.trollpad
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.kdt.trollpad_1.3_iphoneos-arm64e.deb
+Size: 36322
+MD5sum: c39a52b64b4c09d350d2b4330c1376a7
+SHA1: d9c2225e4d54eb8f87901f57d08f398dfc6bd464
+SHA256: 98d225244a09e114a21d679fbb3f3a0195dad3aef53b17fcb4c9c54d62e57e59
+SHA512: b833e71baa34ae91a7fc94b33da4f22aeb1098171cca78e5d690c6f8ab8d452d5552e5e02f7bd1201425b42e60ae6e245e1fc4954641bdb84fb5105b88f7f08c
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Name: TrollPad
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
 Package: com.lenglengyu.iapstorefugu-rootless
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -859,6 +898,41 @@ Description: Allows Wifi to stay connected when the device is locked.
 Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+
+Package: com.wrp1002.nosettingsbadge
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64.deb
+Size: 4386
+MD5sum: eb490f9575dac7396e9ab1a332cb7a30
+SHA1: f3d3baf3ed3a07ce5d1593e5c0a98eb1000ceb1e
+SHA256: beeb3283ed1bf25e445f6e855d9a52ce733a68cf296a58fb488ab9a0870fdb2f
+SHA512: 263f96ee83873147fb8447a427f31a4dbdba10b86d54a4f0c29de30863a3e139e1843a53b30ac05947a551a5ca1f6dcfc1b6be65cfb71fd2f83351802f28cdf3
+Description: Remove settings notification badge!
+Name: NoSettingsBadge
+Author: Wes <wes.hamster@gmail.com>
+
+Package: com.wrp1002.nosettingsbadge
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wrp1002.nosettingsbadge_1.1.0_iphoneos-arm64e.deb
+Size: 5960
+MD5sum: 40721f57133d0f394dcb41e86b529f2d
+SHA1: 1ab8bffd7ce86992c0fa3bedb51098ec9a8a0a71
+SHA256: fbe1e6917e7937189897fdbc8d14d79d9ecbd800c62ef8807ee3eac974b5e7de
+SHA512: eb7b785607d37554c5464a61f762d7357aacfc5bd325ffc63ecfb1546f3d2d5a3f12cd65506defc7ce874a3964b8d009e2d2746eed74650aa074900321246866
+Description: Remove settings notification badge!
+Name: NoSettingsBadge
+Author: Wes <wes.hamster@gmail.com>
 
 Package: com.xabdoat.adblockpro
 Architecture: iphoneos-arm64
