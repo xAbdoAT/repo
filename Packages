@@ -1,3 +1,116 @@
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64
+Version: 112.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 676
+Provides: appsync, net.angelxwind.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64.deb
+Size: 34120
+MD5sum: dfa66cf21c438ee7966168695af2089b
+SHA1: dd4af905bf8f74427a019ec24200fa4f324443ab
+SHA256: 5cc26b096cc66a5d4bd2dd1f64a3ff64bb77c15df7da603a812dd2f095daab63
+SHA512: cd83b2dd11e949b8c4424e1600a3526b87afef9a1d5d1b8ba22db08a3dba8c6f494bac8f4ae5fb0b4efe1501d1f9aa4c03bb3c9c0ca2d8c4209a25c0ee88beef
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64.deb
+Size: 163244
+MD5sum: 4afba470f61c9e3052b1768435e0f919
+SHA1: cfde27d5a28364835bb7b195b4649c801c677ce4
+SHA256: 9f9dfb0443839cace5e9d6fe2744e825b5f71f911e2d2f360c681a63d81fc428
+SHA512: f6d2ef3d45f7e5c06b2a9a90a6e5835d1f033b86f42b5472ad024558ce876da7dccf81c15670b242e63a751fb60a00e9c81b636447d7939b201143f96ab51ec3
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/instagram.png
+
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhinsta_1.0.3_iphoneos-arm64e.deb
+Size: 161992
+MD5sum: 713d227f884cc9ed07b1b02f0df809bf
+SHA1: 7fd228fbdbc38edd4e86b8b80cc2d32784cfb81c
+SHA256: 43f31b2d9f00b783b83277572531a60191b8463190123c30f05e8588509c82cc
+SHA512: 582dc87a3ad5d90cd3a47ac8c6f1c5c7d414e100214317976818eba1db58490c8e905c047893731318feb340ac6ededa5898f1ea75d90de21f1bb17d58774a93
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/instagram.png
+
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 481872
+MD5sum: 5c70397c21a4fc9c51ff32f073c8bf82
+SHA1: dd348df50cdc475f9f4991ec5344ae2d0630be2e
+SHA256: bea18e3a250e998a5b2cd17e8475d096c64339afc0889684749659c69c3dafc2
+SHA512: cee98964fa30372a90e13ac07883d6c890ef6ab65c270b74d85540ae328dcd51f1c14860e8ff3f6e96f686b8aa73b5764cfba2458c37c9f7282aada5f67c0d47
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Tiktokplus.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
+Size: 1061656
+MD5sum: 9307a6d7830ee2d4ac266d3c205d21e3
+SHA1: 98eb834b91eb7a676950a474d39b6b04055642ea
+SHA256: 48ea670de17fddb32783e0d3cbbf82ea1b91ce0882ec548a57c331ad2a6d7e9a
+SHA512: 83ffd4b618b2ca301758ef5c01ad129f8885da2c9e7c4f0b8ddaf4497d1806334dced221e2762a935b888099b7a6b02aa5d7d4a6b9b1a42043b65df535a2e282
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/x.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64e.deb
+Size: 1064464
+MD5sum: 5809fff454fe7af2297d86c1cd69105a
+SHA1: 0745591b1d39e1363d080b194a656e11e4589b63
+SHA256: 9c817f67ea28855ea8bb2b75ba043d6ba6c844c323d851dbd2effcc1e55453c8
+SHA512: f2e98f319dbfd137a30219b905a3adeaa61403b3265dbcd76513d1e21f897239d08f9f8b5e1920e0021a8be9d80ec96cdd298208582e461d2297bf95a0b166f5
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/x.png
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -71,6 +184,40 @@ Name: Safariii
 Author: dvntm
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Safariii.JPG
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3662
+MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
+SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
+SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
+SHA512: f0265105e37861a75409321b73d280e48ac1c3eca3772421e3e172b824802d399ce14268c40eda6db657abb3811e7a392eb432fdb3db237ec96e05cde12468b5
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3592
+MD5sum: f8865dcdafe66237508242f2c58be844
+SHA1: c16c450777613e888c6f95398d101e34fa4e82c0
+SHA256: af274673b2adb3d7d8ce76173e9fdb8d0b82fb81b5709491838f38b41a7380a3
+SHA512: 089c585d89eb35af28becd51c75fc84d590ef4a7b6a35ef060520e09c9281ddecae3d8def3c13482191fd742f890c9d40e5f9e3d03af1c015b3666edc92ece02
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.2
@@ -128,6 +275,67 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1095172
+MD5sum: d209c2ca0f81dbf8a83ba72b8a4fa075
+SHA1: d6ed8060d299811e4f69ce41199f06b5684e362f
+SHA256: c7036e2d97b3e7a5aa163246b8c9d7e433335209b3a8c928294eb2aa5facf66b
+SHA512: d6f2fb99cb04bc666fecf2a5b7b43c0042984adadccb9592b1c63a7bf95eae8142e6268c519cfbe7f0fb6a809b9879107a3743e05b3d4a5779d4e65fc86f2fe7
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/icleanerpro.png
+
+Package: com.exile90.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2741018
+MD5sum: 0284bff5d8a5e758cd2f6124ebacf0ec
+SHA1: 6c747d9426c090df2a8cbfc443e54431a973b713
+SHA256: 2bb53e17cea2d5d20a975ccbe31bd19d419f35cfac163aec1ece176c5943f6d2
+SHA512: 1de2b3c0c60200f52688a6a32ed29a44fd637f18f8d6b7b125b4122cb7852d417edceaf765a200b8f684c90f53d51a57f83330401194882f25411db1566812aa
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/icleanerpro.png
+
+Package: com.fissiondev.uranium
+Architecture: iphoneos-arm64
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), xyz.cypwn.xinam1ne
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64.deb
+Size: 38460
+MD5sum: 84deeeeba7badcfea22162a9e3f36b1b
+SHA1: 2cdac77b1d311f0c161eee26d5a549487e536cad
+SHA256: 21c13bac76a1ba1414c7009fb2a60987a1440917dc3f34b868f73896c7bb57ad
+SHA512: 1a98acf893821f7384c3f109bff6600ee2a8e6f14f764ff2bdbf8abf8d5799b97459b723a83ff619c4ceb29d255849e0163fc4c2d65d860fbed3945decbd523a
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
 Version: 2.2
@@ -184,6 +392,42 @@ Name: YTMusicUltimate
 Author: Ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+
+Package: com.imokhles.disablertl
+Architecture: iphoneos-arm64
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: @iMokhles
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 4756
+MD5sum: 6d2fb08575ccb9fb7195a152e1448f3d
+SHA1: b1fa5de8d255939eeb3179f7d9377624c195716e
+SHA256: db7ea10546ead167a17060b85ce8c1ecd9fda3fc788fe4b159d389a669f65006
+SHA512: 156d206c54256c5f2e377318531102c9dd589a2b10425c8c10d3d9506518ecdba0e1f68f05b1fe9b0e515571a8449f5cc33c66af6012e041330921d2d6de7195
+Description: DisableRTL all over the system
+Name: DisableRTL
+Author: @iMokhles
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64.deb
+Size: 76432
+MD5sum: 69411304dfbdea04060f046321f677ad
+SHA1: 0c4a567d51a1fc1298452d3b21794598964a23d0
+SHA256: 0762c4a12fdceb4403856f5cdc2082085831a61e821c7cccb2dc3c8191057dcf
+SHA512: 065ea1730ce1a47f54ba7627c487e3918faede1640fe7af9cf8749c4c052e97dcc7748314f3f0b783dbf681232aa2290be87347ba50c72d1800b02ad08af4b3e
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
 Package: com.roothide.varclean
 Architecture: iphoneos-arm64
@@ -253,6 +497,24 @@ SHA512: 7ab646a2dca244e8381f70d26f2c1e7491f02f021446c61f3e8d2b155e988001b6bf0ec0
 Description: Sniper @DNS_Sys
 Name: TeleSniper
 Author: Sniper @DNS_Sys
+
+Package: com.tonykraft.inosleep
+Architecture: iphoneos-arm64
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 368
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64.deb
+Size: 30840
+MD5sum: 2358e51f0999d2d83d2215f12df7cb6e
+SHA1: f1fb91a0c74e4fac11af50e56af274724d527316
+SHA256: 37c101521de6bbe8a29a9a545b85fdde3871e46c6d85cb5c7d3bf3dad6146b6f
+SHA512: f39520066bce602e4a0aea44fc4fab6219bef11f3d786f8734e625dc55ef1406056202cafc20e95a3e11d4ed9a367375aabd9a40ac7f15c511576e9736181ba8
+Description: Allows Wifi to stay connected when the device is locked.
+Name: iNoSleep
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
 
 Package: com.xabdoat.adblockpro
 Architecture: iphoneos-arm64
@@ -359,25 +621,6 @@ Author: Haidar_Phantom <a4237019c0@emailabox.pro>
 Name: Hammel | إدارة الملفات
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/FileManager.JPG
 
-Package: com.xabdoat.icleanerpro
-Architecture: iphoneos-arm64
-Version: 7.10.0
-Section: Utilities
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.xabdoat.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 980988
-MD5sum: ddb3eef9671aee9eabd5cc7963697e80
-SHA1: 735cd0ab681fcf3788553c7b2f38fbe75b084e94
-SHA256: c78cf5673446a25e8f11a4079fa0e4926292302330293fe12cb1ecffeabb6d7a
-SHA512: 750d48af59b63d78a44cea808bcc6d7d7969bb8e0c11d2e3480dd50939c7291cdb09c790e485269529aa890b05a113d1b115f204434a7b152bb889c9c1ce8266
-Description: The first real iOS system cleanup and management utility
-Name: iCleaner Pro
-Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: https://raw.githubusercontent.com/xAbdoAT/repo/main/assets/icons/icleanerpro.png
-
 Package: com.yan.anouk
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -418,6 +661,23 @@ Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
 Depiction: https://yandevelop.github.io/depic/Anouk/index.html
 Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
 
+Package: daniel.trustevaluator
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64.deb
+Size: 3316
+MD5sum: 75cab0167393d8f53d67841ae0bc4ccb
+SHA1: 3ac500084398b5bb24094f87114fa65cc40896c1
+SHA256: 1c8d4cf69c90d1b16d4f602d4e8262463d02e3f061990418235f01f0751429e5
+SHA512: 4e06ef8676b8b73c13ff8395e8f06756e6f21e4f35800858788827bdb9b65f0d749bfcca8a40ab09b14093ddab489bb02dd306ab450ccfc291f08965b1ce6ef1
+Description: Allow installing unsigned profiles with the ability to write global defaults.
+Name: TrustEvaluator
+Author: daniel
+
 Package: dev.zero.wickedfree
 Architecture: iphoneos-arm64
 Version: 2.0.3a
@@ -435,6 +695,43 @@ Description: Free Wicked 2.0.3a for Snapchat 12.38.1. 15 characters needed for t
 Author: zero
 Name: wicked
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Wicked.PNG
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm64
+Version: 0.4.2.W
+Section: System
+Maintainer: alias20, @Waji1h
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2.W_iphoneos-arm64.deb
+Size: 68996
+MD5sum: 47e4e69fbbb570baa6bb8a6692bda761
+SHA1: 9fb03d3f71857ed961bac5fceb7223adc9bc6200
+SHA256: 6c09fb0c35f3853fab89f8f4d44ba792ec239ea31f89530cab62def48392edd3
+SHA512: 2a0f5ea40d9439bcaefb7889415634fac27505f245125a62bea261372aa71ad0a8be8efd69ceb82a3c50d09a9aed9be012e5407c18fc674defc33d7d0edf3496
+Description: An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2) (Updated by @Waji1h)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: XsF1re, ichitaso, level3tjg
+Name: vnodebypass
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/vnode.png
+
+Package: net.ajbbo.disableshareplay
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.disableshareplay.arm64.deb
+Size: 3044
+MD5sum: 62f41c80071218a295ef9c9b83d88fc0
+SHA1: 1625db50e148d8ff2471ea9b1078c0b7d27a6b38
+SHA256: fa15e19ef12446e2c6fc2c226f69002a979bc908df8e991d04c39dfc6113a69e
+SHA512: 23e9d4b5497d01363c3802f4381f7399c6db0857ee33c632881eaded0356c701a6c1506bcd60ee08169d679c52a0f2586aeb0f0944c33b699f8dd264d4732f66
+Description: An awesome MobileSubstrate tweak!
+Author: aJBboCydia
+Name: disableSharePlay
 
 Package: ru.rj.filzadirprobe
 Architecture: iphoneos-arm
@@ -454,6 +751,41 @@ Author: 0xkuj
 Depiction: https://rejail.ru/depiction.php?file=filzadirprobe
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=filzadirprobe
 
+Package: ru.rj.filzadirprobe
+Architecture: iphoneos-arm
+Version: 1.5.0k
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 23546
+Filename: ./debs/ru.rj.filzadirprobe_1.5.0k_iphoneos-arm.deb
+Size: 6125202
+MD5sum: 441d6ed6c6eac975e2b4df5250e3e2c0
+SHA1: 8a2343dcb2a1048b1f483aca7ff42c54d44f9e32
+SHA256: b0aa991b5165464c8b5e90a2520a259fcc87f71613189ea2b23e83d8ed375e6e
+SHA512: 6428d7212d14eb62873ad685fb4f702e0d49beb65d2a5e0324e3a4e4416f8f472e1523ae8515c51bb3092b2ba3fcc4b93748a49f0f2f646006d95b5b091db4fd
+Description: Расширение Filza для подсчёта папок в вашей файловой системе
+Name: FilzaDirProbe
+Author: 0xkuj
+Depiction: https://rejail.ru/depiction.php?file=filzadirprobe
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=filzadirprobe
+
+Package: ru.rj.filzadirprobe
+Architecture: iphoneos-arm64
+Version: 1.5.0k
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/ru.rj.filzadirprobe_1.5.0k_iphoneos-arm64.deb
+Size: 6151108
+MD5sum: ce3d744ed35252b4e59b2884b3805fb5
+SHA1: 7d1394a6014b7625351e907496c3e9a01b2388c5
+SHA256: 554e0d507d2370a62277da8ae640020c3b0a53ce4bec98649d10b13212d86305
+SHA512: b9572d8e1c0536119903f985362a4e14959b9231a7f4c06168f94265de16a5bf2e2639c0c23e1c9ee5761ba6e739261176ae66f5bbfd69ea5ad4318451157616
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Name: FilzaDirProbeCrack
+Author: 0xkuj
+Depiction:
+
 Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64e
 Version: 2.6-7
@@ -472,6 +804,26 @@ SHA512: e7a1b4a47fe8544732883fc0615bf8b7fab339672a86158b34b5cd8a349c4b2ee014c534
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
 Depiction: https://repo.cypwn.xyz/depiction/2628
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2628
+Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
+Name: Xinam1ne AIO
+Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
+
+Package: xyz.cypwn.xinam1ne
+Architecture: iphoneos-arm64e
+Version: 2.6-8
+Section: Utilities
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
+Size: 1950896
+MD5sum: f1a7ef99bfb5cefa90977cfcee658045
+SHA1: c30d77cfff64cbf755cfddc8522d94f262aa627c
+SHA256: c3f4a2b308d7b4f2f5448ac43524b63d485072946cf6a2619e5531e569724999
+SHA512: d389047dd301a5fb10d9fe7405930363c1248d3afc96618cb2c6fe448eb263f7992cd573b57c422dfec938a805cb14d25f27c98b91b52bf832bc83036832d09e
+Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
+Depiction: https://repo.cypwn.xyz/depiction/2816
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
 Icon: https://repo.cypwn.xyz/packages/Xinam1neAIO-Rootless/icon.png
 Name: Xinam1ne AIO
 Author: Paisseon, Sudo, NoW4U2Kid, Kixrd
