@@ -20,6 +20,29 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: ai.akemi.appsyncunified
+Architecture: iphoneos-arm64e
+Version: 112.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 676
+Provides: appsync, net.angelxwind.appsyncunified
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/ai.akemi.appsyncunified_112.0_iphoneos-arm64e.deb
+Size: 98068
+MD5sum: daebbcafef1208b55d1d59a18f8ee321
+SHA1: 963af82e3508c53e1854edc1bf9ba882996ddac0
+SHA256: 7587890e767437d5470fb8e6559cc12311c8dddd414a06e2813ee5b0fb10f5b1
+SHA512: 1835ad9702e166ef772515ac359038b0ee006f6889b9e1697b429af1c5b051cd1dcb1a95f31f21d87db2d6d532c55c6e0c5724f257a19cf4f91d7bf0356f1127
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -69,6 +92,25 @@ MD5sum: 5c70397c21a4fc9c51ff32f073c8bf82
 SHA1: dd348df50cdc475f9f4991ec5344ae2d0630be2e
 SHA256: bea18e3a250e998a5b2cd17e8475d096c64339afc0889684749659c69c3dafc2
 SHA512: cee98964fa30372a90e13ac07883d6c890ef6ab65c270b74d85540ae328dcd51f1c14860e8ff3f6e96f686b8aa73b5764cfba2458c37c9f7282aada5f67c0d47
+Description: An awesome tweak for TikTok!
+Name: BHTikTok Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Tiktokplus.png
+
+Package: com.bandarhl.bhtiktok
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.bhtiktok_2.3_iphoneos-arm64e.deb
+Size: 485132
+MD5sum: 2324dcc48c62f88b26a3fec5b47f706e
+SHA1: bfdd2f8aea212bac2f6bde0879ef587ec9a241ba
+SHA256: d7397b30a7414f62df48028bb0caed0ded32a1597d3ba3b0a4788b40a299943c
+SHA512: c0f47d74f4b15f59598f762e69091d79de60368ea46c9c7bc7559980437cf98e7d64d2a26a6b5ce89e09a770a16c7060e36334edec65afb4f0ae68ff6380afb6
 Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
@@ -129,6 +171,45 @@ Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm64.deb
+Size: 125372
+MD5sum: c720a50f79d1ee959a841077f2118f6a
+SHA1: 430a10827e28d8bfe17fdd49709f022d32ac5ba2
+SHA256: b2bf02affe5e2a9d44b79762fd1becc52a0f5ffb8627228cef9edad1443711cc
+SHA512: 7ddbc81de721987bc1def6a00ff9611cd9cd152217ac0f6f54978c707010410e9610270af9acba60ea04dc2dc14b5e7d7a0b5d3809ed2c11a4b35155fcb28282
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/InfusePlus.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm64e.deb
+Size: 126740
+MD5sum: eda850fbc6aadb02ad8632eedb92c149
+SHA1: 06c71c845acba45da66a43cfd1e095b88ed8a21d
+SHA256: bdffe7c775f44b6dc8ecc1eda608008d583297473b2ca7b2ecc78f8d178a4de0
+SHA512: 73decd177bb71de991fa8758667f5498009fa7fb6132549000c3490b24ff82723adfd7e1fac1362d334f1e321bb95e59d8d3c141aaf7f9ad646b281b5a6ddeca
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/InfusePlus.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm
@@ -336,6 +417,25 @@ Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 
+Package: com.fissiondev.uranium
+Architecture: iphoneos-arm64e
+Version: 1.2.7
+Section: Tweaks
+Maintainer: FissionDev
+Installed-Size: 468
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), xyz.cypwn.xinam1ne
+Filename: ./debs/com.fissiondev.uranium_1.2.7_iphoneos-arm64e.deb
+Size: 49068
+MD5sum: ba9c6aaeaec4c7b3476db4b157911bb3
+SHA1: d6ddb75787c185220404d97936958290fde88f54
+SHA256: ee203c81629866e93090f3b5ef482cb47e18405f236b2829ae5ea5479ab2c0ac
+SHA512: 12b75aaedfa9c5d58d7117dd28c2b1eca89224c1e9477314a115c8439eac777ac22747bddef0d2a670ff8bfccbdcc5875ddc8872254720190b93c790b9cd575e
+Description: Lots Of Options To Enhance Your iOS Experience!
+Name: Uranium
+Author: FissionDev
+Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
 Version: 2.2
@@ -410,6 +510,24 @@ Description: DisableRTL all over the system
 Name: DisableRTL
 Author: @iMokhles
 
+Package: com.imokhles.disablertl
+Architecture: iphoneos-arm64e
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: @iMokhles
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.imokhles.disablertl_0.0.1-3+debug_iphoneos-arm64e.deb
+Size: 6194
+MD5sum: 9d1ffac62dbd2321c7c9eb757394e841
+SHA1: 90a107f274b5094632458d983032d6d987a049a5
+SHA256: 43b603ec82ae95a6d0ac6e2222bafb9bb4fc3bdf1235969713b3b88a7f714312
+SHA512: e9012a96476670cf05d683df8269974a3f1b4cfaab1ae508093e2517c3feab1e9ad0bb286b559baad18433ab6b5eec1928d34510d52a61d2c8037d23ed3aa7fd
+Description: DisableRTL all over the system
+Name: DisableRTL
+Author: @iMokhles
+
 Package: com.julioverne.goodwifi
 Architecture: iphoneos-arm64
 Version: 0.0~beta6
@@ -422,6 +540,26 @@ MD5sum: 69411304dfbdea04060f046321f677ad
 SHA1: 0c4a567d51a1fc1298452d3b21794598964a23d0
 SHA256: 0762c4a12fdceb4403856f5cdc2082085831a61e821c7cccb2dc3c8191057dcf
 SHA512: 065ea1730ce1a47f54ba7627c487e3918faede1640fe7af9cf8749c4c052e97dcc7748314f3f0b783dbf681232aa2290be87347ba50c72d1800b02ad08af4b3e
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
+Package: com.julioverne.goodwifi
+Architecture: iphoneos-arm64e
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Julio
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, xyz.cypwn.xinam1ne
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm64e-1.deb
+Size: 101086
+MD5sum: 74b53d5dac9c5b84ec7d9824d84d4787
+SHA1: 6f90a05c7b1585f3026d4b9ee429737697840aef
+SHA256: ddf934ca0cd0324520f9157fda6e69f0d2d9fad7892397d0e5bc7d33aa5a8a36
+SHA512: 896d67d090bfc12c20305dc85fecec4898de37780b25584eab74a9b3571d8c0cfbdf08a91ad445b3bb20ac5c27f975283194c5b917d7be8fd2179a889f256bcd
 Homepage: https://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Name: GoodWiFi
@@ -511,6 +649,25 @@ MD5sum: 2358e51f0999d2d83d2215f12df7cb6e
 SHA1: f1fb91a0c74e4fac11af50e56af274724d527316
 SHA256: 37c101521de6bbe8a29a9a545b85fdde3871e46c6d85cb5c7d3bf3dad6146b6f
 SHA512: f39520066bce602e4a0aea44fc4fab6219bef11f3d786f8734e625dc55ef1406056202cafc20e95a3e11d4ed9a367375aabd9a40ac7f15c511576e9736181ba8
+Description: Allows Wifi to stay connected when the device is locked.
+Name: iNoSleep
+Author: Tony Kraft <iostonykraft@gmail.com>
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.inosleep.html
+
+Package: com.tonykraft.inosleep
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Installed-Size: 368
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, xyz.cypwn.xinam1ne
+Filename: ./debs/com.tonykraft.inosleep_1.2.4_iphoneos-arm64e.deb
+Size: 33622
+MD5sum: 2ac60dd1a7ae67be8777dc05e8cfb071
+SHA1: a350c3cbe41f0ce8d2786a50ca13da8e0dc7c44d
+SHA256: 181f9591cb71265335f770640e71f42fcf7e675dcc5d17cdbd54a0696e7d305d
+SHA512: 9dc99dec731d57d2621f70ee4278aa6c0d77a282c3615066711f6f7831b60b53ee983ce7451a546c2220c7f886053b902fec4ceebe075cd59fc7152df994cb0f
 Description: Allows Wifi to stay connected when the device is locked.
 Name: iNoSleep
 Author: Tony Kraft <iostonykraft@gmail.com>
@@ -678,6 +835,24 @@ Description: Allow installing unsigned profiles with the ability to write global
 Name: TrustEvaluator
 Author: daniel
 
+Package: daniel.trustevaluator
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: daniel
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/daniel.trustevaluator_0.0.1_iphoneos-arm64e.deb
+Size: 4360
+MD5sum: 1059377ddbd3d4c82982b07993782a35
+SHA1: 454edb75752a8cee435d3143bdce3f2d51f0ccaa
+SHA256: e84f8af2083048428d731bc1a2ffbb7a183547b77391c63aa6562bd6fff94a82
+SHA512: 54e5e8cce75e4e9a39467640f1a79d4b573b9a0472a44589ae274194101b73aca0b9d682af57d1f8f9476574e14377400d8c28ff51c00525244761851e5adf48
+Description: Allow installing unsigned profiles with the ability to write global defaults.
+Name: TrustEvaluator
+Author: daniel
+
 Package: dev.zero.wickedfree
 Architecture: iphoneos-arm64
 Version: 2.0.3a
@@ -732,6 +907,24 @@ SHA512: 23e9d4b5497d01363c3802f4381f7399c6db0857ee33c632881eaded0356c701a6c1506b
 Description: An awesome MobileSubstrate tweak!
 Author: aJBboCydia
 Name: disableSharePlay
+
+Package: net.ajbbo.disableshareplay
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.disableshareplay_0.0.2_iphoneos-arm64e.deb
+Size: 4232
+MD5sum: 1c87a6f107dff3ef10fb63972cc79533
+SHA1: 3e112f96310ca2b2d53d7cbaffdba438edb4fa70
+SHA256: 4bfadd57e2922ec79523d98441aaaf338f55ea47ebf6445bbb17befa9320fe88
+SHA512: f3d9cb3a16d2aa45d2dfcb2b22b44741fa77bd65a6f5c99579802f5e2d143dbc64d187dc4a9393bae3fdd66fa455b0685d356b2768332d29026759c3bef4be67
+Description: An awesome MobileSubstrate tweak!
+Name: disableSharePlay
+Author: aJBboCydia
 
 Package: ru.rj.filzadirprobe
 Architecture: iphoneos-arm
