@@ -1388,6 +1388,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: disableSharePlay
 Author: aJBboCydia
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
+Size: 4288832
+MD5sum: 5f99c562285f6559fcb6209bf82d831b
+SHA1: 675daa9c01f6e84629f79d61ae8855a44230f697
+SHA256: 154bd94bb64bf76352030afdec3524b8ee36cbcf3f7f9e936dd1894e67d72c1b
+SHA512: 21189c89e8c347e9536abb2b344e397493409f13b86095cc46f719272ebcf93a33369565f7adaff248fa55ad7b3e03f7de295312a09edbcd3db0c7970f4fa818
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/sileo.png
+SileoDepiction: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Sileo/depiction.json
+
 Package: ru.rj.filzadirprobe
 Architecture: iphoneos-arm
 Version: 1.4.1
