@@ -440,6 +440,84 @@ Name: iCleaner Pro
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/icleanerpro.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.4.6
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 692
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.6_iphoneos-arm64.deb
+Size: 179948
+MD5sum: c2ba3817275feda42184c604d2be3d21
+SHA1: c591f9094b56632fd694fe438333fe7539d42321
+SHA256: 959b94b2a6b1c2f5917efa3a9e726723dd5a512264d2d350a57139a6a66d82e5
+SHA512: 759f8d235bb679b9906306558b109ed762b34e4faa9b21e45e7ce1fe0876c1ed753d737b850fb2bab9afa5e51bce9e29998e04c6fc0767d4a614bd7bb2d3f489
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.4.6
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.f0u4d.onlinenotify_3.4.6_iphoneos-arm64e.deb
+Size: 178312
+MD5sum: d1619d66b2efc62c4cc81a6b45dbb8c5
+SHA1: 5b6941d81505cdd693b30933a1134f17af8adefe
+SHA256: 2432592454e3946cb697ec8e3dc27b7b77dc6aa73e36700925efaac0625e81a1
+SHA512: 43bdcd0c8bab13020d44a9baf6bea314cb9a1fa808fc1fd19150f0d870671f67a3a2622e4b74ddcb11bcd25d3771e2f5a7f4d0ab184a264cde2663163fc79bdf
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.29
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6772
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Enhances: WhatsApp
+Filename: ./debs/com.f0u4d.stalky_4.1.29_iphoneos-arm64.deb
+Size: 1602860
+MD5sum: 6a4d7b05838d81bbab75611fa01dbf04
+SHA1: c228e6b74a882b0d17e7c7dcf69b5ff572db26a5
+SHA256: 58f538fc36a9ce82530b02a08de58f16754ec7774795015814c268e8cbfd49ce
+SHA512: 215ad7fded6d0a04ab8b5c47b35b4b7df555ab7c38a05f9516d9fd0580b711c5c49812cd83d072b27f183b4d9d8222404787d5febbb4c730e9050e3089d6388a
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.29
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Enhances: WhatsApp
+Filename: ./debs/com.f0u4d.stalky_4.1.29_iphoneos-arm64e.deb
+Size: 1575656
+MD5sum: 6a43013b96d3586568e4e9cfac8e3bb4
+SHA1: d745c3f5e9662d054dcbbf21fee4e99817ac646c
+SHA256: 8035d31f575b4e9774e2908b33e3bc16a655d0767574c20194ca8375cd29c6bd
+SHA512: b4ea26df576213f661f36ff535e9c69bb040757f1d6b59979b766293fcc12d541161591856ddb0ad1fdf2288665d99c4119e05a1bc8aa8ebffaeac2e32918250
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
 Version: 2.4.34
@@ -513,6 +591,86 @@ Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64
+Version: 1.1.9
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 612
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.32)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.9_iphoneos-arm64.deb
+Size: 111604
+MD5sum: 4e0d3c9466ef4994cb0d0c2ffb11eb21
+SHA1: a70030990199f28814684ecf120ddb1f7c9be69c
+SHA256: e03bf51312121ceeba0d77ba0b153571e849d372bb6416e5ed75287273fb45c9
+SHA512: e66a4ec92a560f2690ba681646aa193731060f7de59cd14bcf3ff41ed70b0602481057e52b1c74176d37f3681e2987aa32e0a0edb03550cc240f51909aa1b430
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.fouadraheb.contactsync
+Architecture: iphoneos-arm64e
+Version: 1.1.9
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.32)
+Filename: ./debs/com.fouadraheb.contactsync_1.1.9_iphoneos-arm64e.deb
+Size: 110312
+MD5sum: 56c3db68345341e9b0ff2cfbeb4c219c
+SHA1: fe49565aacee0b652ff0429df1f47f2e10166e7b
+SHA256: 00c07af05659e32283d8ef37b353ffe9c123d167bb62e30f48d3966fd2dc234b
+SHA512: 34c2c10a58d7dd7d20e94b5d367f94f9d956ae62c78ebddd3cdea4d0ab394eb54aa755276b8c684919e9522acd8eacd2e34e7482655857027427f4335773ac3f
+Description: Sync WhatsApp Profile Pictures to your Contacts
+Name: ContactSync
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
+Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64
+Version: 1.2.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6660
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64.deb
+Size: 1971948
+MD5sum: 8d072e47c518e012d58853c640227fa8
+SHA1: e0a73bf9db725d6d250ac9d533ae18b6541f2cdc
+SHA256: 2ecb8465b933b1d53bed59384823a32ca92f138fc0e643a553f33ac8c91230f9
+SHA512: 7cdeed9dc943b94b1edb5028316fc0f345a2193e020dd9bbbbfe09f6d0711ef209b7c170c4ef6f1bfd20e328e3628d3652893c4bc1326c68d46b39e7378870ff
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
+
+Package: com.fouadraheb.watusi3
+Architecture: iphoneos-arm64e
+Version: 1.2.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.4.33)
+Filename: ./debs/com.fouadraheb.watusi3_1.2.40_iphoneos-arm64e.deb
+Size: 1955832
+MD5sum: c746bfa8e5560d2176a92f365ac14be7
+SHA1: 4604f9c5e9f9e0db896233e0811857943aa5e2d8
+SHA256: d7ae51aef9644799680257bb8c15fb7d566906add04393145cf6a7e38cdf68ff
+SHA512: 8374267604af60728d4d4d2e64389ca57e477cfe4b43d22cf202a5945ea52c2b3f5f3606b0efcd4679e4704f75b13268a8374ddc24b4ced8886d46a62ef45030
+Description: The all-in-one tweak for WhatsApp Messenger
+Name: Watusi 3 for WhatsApp
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
 
 Package: com.ginsu.ytmusicultimate
 Architecture: iphoneos-arm
