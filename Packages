@@ -213,6 +213,40 @@ Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecu
 SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
 
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 0.0.1-37+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_0.0.1-37+debug_iphoneos-arm64.deb
+Size: 13608
+MD5sum: 6b0ca700407d044916b4b959c9543d61
+SHA1: 3a86c4c63562093a1c15b104d138bb36d7c68a81
+SHA256: 220ae2bef80e1f2ac1777c404b9e075d1668b14a62f37f747dd0517a3a0d3ea8
+SHA512: 1b94e09d4afeb613d0319d9bfa006cf50c22132cfb4ce05e9e2c50b653eb51b28dd04eefe25d091f50b32239210cee9d50b09296411930738febc4509a708322
+Description: Download Audio From Reels : Long Press ( Two Fingers ).
+Name: IGFormat
+Author: MrDeNsor
+
+Package: com.den.respr1ng
+Architecture: iphoneos-arm64
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.respr1ng_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 6212
+MD5sum: 6191032bd0368de79448639c1b17b38b
+SHA1: 7c14671dd92490a01ccd0de54db5ae806418779d
+SHA256: 1679df58911d43e671283aa7c82515dd51c45d4b7e9e4c6b3624cab09a003559
+SHA512: 9fa0597cac78cc392a050a6c304f51826b0fe4ccab79d2d190992ce241bdd08f1a96b0e091001c8ec6d6787c7d56b859d4cdea344108d7724e365a3fa2a4b38d
+Description: Simple Tool add Restart SpringBoard button.
+Name: Respr1ng
+Author: MrDeNsor
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
 Version: 1.2.0
