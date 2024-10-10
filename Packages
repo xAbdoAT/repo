@@ -43,6 +43,40 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: com.34306.replaced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Size: 3094
+MD5sum: 9f36730b58f43f060d082b03b6f3ce32
+SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
+SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
+SHA512: f767ae9ab6542f97a4c2f14998b27d816d406b7b2e1b11feec1a8ec6f38b968b43f06a18acab4a33156c8c4716f68dd7d99a451c2fa122de36c5c1e62b785c99
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 3052
+MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
+SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
+SHA256: 622ef01822fad1e6f4ab57cf99045aaff607e26fb8413165d8437644bb0192d0
+SHA512: 61a96a39fe0aae6f1944bb509f30508acb51d8e94d071398a34ee2e18b22f9cffb52c578271098ca7416b9b823f66537c20926cc677fbc31ce67c27750aa2dda
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
 Package: com.bandarhl.bhinsta
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -1422,23 +1456,22 @@ Description: An awesome MobileSubstrate tweak!
 Name: disableSharePlay
 Author: aJBboCydia
 
-Package: org.coolstar.sileo
-Architecture: iphoneos-arm64e
-Version: 2.5-15
-Section: Packaging
-Maintainer: Amy While <me@anamy.gay>
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
-Size: 4288832
-MD5sum: 5f99c562285f6559fcb6209bf82d831b
-SHA1: 675daa9c01f6e84629f79d61ae8855a44230f697
-SHA256: 154bd94bb64bf76352030afdec3524b8ee36cbcf3f7f9e936dd1894e67d72c1b
-SHA512: 21189c89e8c347e9536abb2b344e397493409f13b86095cc46f719272ebcf93a33369565f7adaff248fa55ad7b3e03f7de295312a09edbcd3db0c7970f4fa818
-Description: A modern APT package manager frontend
-Name: Sileo
-Author: Amy While <me@anamy.gay>
-Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/sileo.png
-SileoDepiction: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Sileo/depiction.json
+Package: ru.rejail.filzadirprobe
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/ru.rejail.filzadirprobe_1.4.1_iphoneos-arm64.deb
+Size: 40620
+MD5sum: c76653ab837ded8188fdfa8a6a0679de
+SHA1: b03f7a94b6a875bf878ff2ab1a9e2f673a91ece1
+SHA256: 74e7a3ade39241751f47f54ede68f23b81c35bc81e79d513e57da1b8dfdd0e57
+SHA512: fa45de124835176d29c3180baa90ed2dd9b941843fb714ba8a33ebf071548d396f3876342ed44d88d8fba9de7902f2f7ee3da97302750ba9d7cfec1f9aae3835
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Name: FilzaDirProbe
+Author: 0xkuj
+Depiction:
 
 Package: ru.rj.filzadirprobe
 Architecture: iphoneos-arm
