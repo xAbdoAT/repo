@@ -1,0 +1,80 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Anouk/Screenshots/banner.png",
+    "tabs": [{
+            "class": "DepictionStackView",
+            "tabname": "Overview",
+            "views": [{
+                    "itemCornerRadius": 4,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Anouk screenshot",
+                            "url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Anouk/Screenshots/AnoukScreen1.png"
+                        },
+                        {
+                            "accessibilityText": "Anouk screenshot 2",
+                            "url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Anouk/Screenshots/AnoukScreen2.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Authentication layer for the hidden album."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {   
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true
+                },
+                {
+                    "title": "Latest Version",
+                    "text": "1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 13 - 17.0"
+                },
+                {   
+                    "class": "DepictionTableTextView",
+                    "title": "Supported Devices",
+                    "text": "iPhone, iPad"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Follow me on X",
+                    "action": "https://x.com/xAbdoAT"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Changelog",
+                    "action": "https://xabdoat.github.io/depic/Anouk/changelog.html"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 9
+                }
+            ]
+        }
+    ],
+    "minVersion": "0.1"
+}
