@@ -1,7 +1,7 @@
 {
 	"class": "DepictionTabView",
 	"minVersion": "0.3",
-	"headerImage": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Sileo/Header/header.jpg",
+	"headerImage": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Sileo/Screenshots/header.jpg",
 	"tabs": [{
 			"class": "DepictionStackView",
 			"tabname": "Details",
