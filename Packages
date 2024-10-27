@@ -282,6 +282,25 @@ Name: Respr1ng
 Author: MrDeNsor
 
 Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm.deb
+Size: 125208
+MD5sum: ff77f13a3b6d591b582a2e36cfa04023
+SHA1: 4c7a19ca3c8b81ad22e6e172c484f9c7cf3fd262
+SHA256: 20e9444451ba78c88ba6e609a85e49ce185f2456a77b163daa9af590885b2945
+SHA512: 2dc4571c642adfa00794d0c84ca8413bc93186e8609e70933ce04e00d871db89d4fcdd317f76b6416f469b2aee1902ce22ef73ead1e4b0c330fdb80be76d5fb0
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm64
 Version: 1.2.0
 Section: Tweaks
@@ -289,15 +308,15 @@ Maintainer: dvntm
 Installed-Size: 420
 Depends: mobilesubstrate
 Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm64.deb
-Size: 125372
-MD5sum: c720a50f79d1ee959a841077f2118f6a
-SHA1: 430a10827e28d8bfe17fdd49709f022d32ac5ba2
-SHA256: b2bf02affe5e2a9d44b79762fd1becc52a0f5ffb8627228cef9edad1443711cc
-SHA512: 7ddbc81de721987bc1def6a00ff9611cd9cd152217ac0f6f54978c707010410e9610270af9acba60ea04dc2dc14b5e7d7a0b5d3809ed2c11a4b35155fcb28282
+Size: 125280
+MD5sum: fee899c4a2b4254669f2327b7d349bf3
+SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
+SHA256: c8c8af3b38c8dcc2c4f5511dd20ee05e62bfaa9cbc3e9026a6dbe4280198721a
+SHA512: f2f078e05c738b8cdfabad013391b4f122f3de083f464099f4c32cb72e13edb8f343437ad87b2a797488f83126ae54aa814ffd907ed32c80011c9cf8147b9603
 Description: Enhancer for Infuse app
 Name: Infuse Plus
 Author: dvntm
-Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/InfusePlus.png
+Icon: https://i.imgur.com/C5MLSXo.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
 Package: com.dvntm.infuseplus
@@ -319,6 +338,57 @@ Name: Infuse Plus
 Author: dvntm
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/InfusePlus.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm.deb
+Size: 4512
+MD5sum: a21a9ad465160fa8449c219e402d4bdf
+SHA1: fe5dd0460f2c28b1f0a55a48d88aaa84c82e720a
+SHA256: 89cecb62fc702f2ff4bf3ded306568221f4aad0687864cecae91bdac0d2b4522
+SHA512: b01a06bf74e86f48bc757fac865bdace5c5fda530d73b833457fdcc51f2e2d2a240034a3a1a6d29332c6ce0647d86525a3941a43d758c37139e103675b524919
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64.deb
+Size: 4598
+MD5sum: d9204d35bbab400a681d9c877e558694
+SHA1: 8e2fc6fe564692395f52a98de0688f78c4c29bba
+SHA256: 6f992baa0b50c4fcc4fd457082555f57adb20a00d098222d200423fab695d302
+SHA512: c5653fd4ae3261a79a98171f5e7b7c85d80843e7ab51db67afb6e56d5e16d0bbe1f241e3d67878f5229f03e892a0105d2dc663bb9285ee996e7e28c85084cc4c
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
+
+Package: com.dvntm.oledkeyboard
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Size: 4520
+MD5sum: 98ee38f38711ae867d46f17828c31f4e
+SHA1: a21c88bb06741d34794a10eddae601ba11c92694
+SHA256: 0c76091393f57593aeb9afb6c9a5ef4f13e0f375c84d8334bde8f4814ce93bfa
+SHA512: 83538b5d7749ff67dcea94781da7482947753059a4120640e3259e5e9dcc926079df45045815a2632ea051ed8934245fc98061988cb4551af6dd555f50afb545
+Description: OLED Dark Mode for iOS System Keyboard
+Name: OledKeyboard
+Author: dvntm
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm
@@ -373,6 +443,74 @@ Description: Displays menu buttons on startup page in Adress bar, Hides Extensio
 Name: Safariii
 Author: dvntm
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/Safariii.JPG
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.2_iphoneos-arm.deb
+Size: 53284
+MD5sum: d0e7368ef7699af0e29ead21d2e37dba
+SHA1: 2d58061ad46044db6be3f702edbcb87156082fc6
+SHA256: 57482b608f3f5ee814e30e87c72f2b56fa2eb5d011717f5e3e943fa665dc169f
+SHA512: 5f51722e581bcc4e0260fb5df24cc57cc9d4b79c85d9295be97144cf37ec7f370988639c9475bea20809f2e9a29be1bd6e63fdaa9ebe773683eb1e1446e34eee
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.2_iphoneos-arm64.deb
+Size: 53208
+MD5sum: fd7f453d0e2560811aa66ba6b2261a02
+SHA1: d738dab4d8bc50d5bffdadbe11253b234d4f73f9
+SHA256: 295ec02b73306fdee703f3ba38afbe2f2823dcf6aa722de4a217964236910769
+SHA512: 8dea644411b7253663a4881d5160864f73533429670241264f962f50d58f0e8f41409da2b27d8cb72b4e40349ffc4554d577073bd4c18fac1ac08fc935f396d8
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.2_iphoneos-arm64e.deb
+Size: 52214
+MD5sum: 46c04880c8c1724cde9e0e2751fb580c
+SHA1: f6f1bb35d8b41d60b880a1f8a3728baf4bb88ead
+SHA256: 5504d3133263788303b8867faf2e0d730a0b06ace26c148123a4d0deb44e5c09
+SHA512: 7be41549e5b6d0c543b84b598516961f0252cbb0e9cb142c72686f6d80d5489bc8a30712dcbbe2ddbf1263aa71e4e0b3663cf25d2bd2084b255d42eea07f7188
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 3572
+MD5sum: ca7db84453f1ec76b3663d6965e0ade0
+SHA1: 23787af0d3b0aad6ec8435609bb0c4651a9f724a
+SHA256: eda0a189a4baa47d8ca327d25660d81b2995e763b565b5691c378a7ee454fc90
+SHA512: f251ca5284b13c6a162dc552531819bc2031fa7ce47fad3129f4a2a47e24f48b6a66335624c67d8982e74a2cd2abbaede76cbe2bd484141986b73d07e3e8c84a
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm64
@@ -1265,46 +1403,6 @@ Author: Haidar_Phantom <a4237019c0@emailabox.pro>
 Name: Hammel | إدارة الملفات
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/FileManager.JPG
 
-Package: com.yan.anouk
-Architecture: iphoneos-arm
-Version: 1.1.2
-Section: Tweaks
-Maintainer: yan
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yan.anouk_1.1.2_iphoneos-arm.deb
-Size: 191258
-MD5sum: d9dfe78f76d9620ad7082ef95a36c3eb
-SHA1: b2c0fdb69a3e1083f8852b19bab3068beb856cad
-SHA256: 045df9cf979acfdd8cecd1be0cc681c63778b0096238c20a4c562c22aae3d658
-SHA512: 41dc06ca3e2e0566dcf48c61aca01273bf6d3fbd003cdf89e2bb1d44a554cd856656a0e2a2d48aa17fb5e73702dc53e4e06b98b3efd8328b8d16ded3da737b82
-Description: Authentication for the hidden album.
-Name: Anouk
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
-Depiction: https://yandevelop.github.io/depic/Anouk/index.html
-Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
-
-Package: com.yan.anouk
-Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Maintainer: yan
-Installed-Size: 712
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.yan.anouk_1.1.2_iphoneos-arm64.deb
-Size: 191374
-MD5sum: 4b70f7a8718630a06f24db48adc9c492
-SHA1: ecf0822d05c1e1d2b1bd1e72a42de2a7f47241c0
-SHA256: 1433469b63a3c72e0bebdb8e338c9f7c27a5502c5557fc8cbc54e8627add1e4d
-SHA512: 2d1e990dcddc533fbec6bf21530f265368bd4fa8ef89234cbab0b88274496d88f032e95ad5834b08be1ae56ff3a8a33d945ba05dccd4e33a67b70a800468e9ee
-Description: Authentication for the hidden album.
-Name: Anouk
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
-Depiction: https://yandevelop.github.io/depic/Anouk/index.html
-Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
-
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -1456,6 +1554,57 @@ Description: An awesome MobileSubstrate tweak!
 Name: disableSharePlay
 Author: aJBboCydia
 
+Package: net.kayoko
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: 82flex
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/net.kayoko_2.5_iphoneos-arm64.deb
+Size: 124468
+MD5sum: 2e85ddc0199f1725c704609e152c8f8a
+SHA1: bdd18d2e8f4ac562e15832b8d866a9281ab937b0
+SHA256: 9b6a6369327dc3ab22c33eb29a30b22e36700f1a3af184da81722019a01f42d6
+SHA512: 5b18cba26123cb27b66ffbc99dcddc5244673784b6e2db7ca25dd5be475fa9e2f245d3ba06ff80d1ad1a153253fc0245c118a007095dcb9aeab19c94449551b5
+Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
+Name: Kayoko
+Author: Traurige
+
+Package: net.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: Tweaks
+Maintainer: 82flex
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/net.kayoko_2.5_iphoneos-arm64e.deb
+Size: 174724
+MD5sum: 02469facbbba984e20b4f5e3d1413e68
+SHA1: 20fb25c83596f74170c546696239a469ed380e39
+SHA256: c368ee20aaf1bb59c696670184f3fba23834fef93da6fd79d4552d46bcd10663
+SHA512: 7f4bc5fc58a2382fc378c49a405ec9e0e09fca77e21c6a972028c3c0233f1f0262ea24f4f002adce1e4c387cb5c3a860a1930d5271ac4554c5b1852b3fb26710
+Description: A clipboard tweak, similar to Copylog and Nicelog, but free! Very user-friendly! It allows copying images to other software! Compatible with Dopamine. 82flex has fixed support for iOS 16, please wait for updates to resolve any issues!
+Name: Kayoko
+Author: Traurige
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
+Size: 3929684
+MD5sum: 1e4c205e99d184664eeb5c4e21723388
+SHA1: 9150be83928be7e065b2fa1b449828bd9fee2575
+SHA256: 4df1744093753a7eb239bc13a9b666fa1811c5a7f72a8b9782813defdeed5927
+SHA512: 047c27c17a8e8f5f1fb33dff595591cab825f9fbe478e94efd02b417969f6274047bc9aaad2030c3b7ee8b35cd04ade0998571c795a96fb587689712ac598cbd
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/sileo.png
+SileoDepiction: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Sileo/depiction.json
+
 Package: ru.rejail.filzadirprobe
 Architecture: iphoneos-arm64
 Version: 1.4.1
@@ -1553,14 +1702,16 @@ Architecture: iphoneos-arm64e
 Version: 2.6-8
 Section: Utilities
 Maintainer: CyPwn
+Provides: emt.paisseon.xinamine (= 99)
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 15.0), gawk, gzip, file, odcctools, ldid, plutil, com.tigisoftware.filza64bit (>= 4.0) | com.tigisoftware.filza (>= 4.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: emt.paisseon.xinamine
 Filename: ./debs/xyz.cypwn.xinam1ne_2.6-8_iphoneos-arm64e.deb
-Size: 1950896
-MD5sum: f1a7ef99bfb5cefa90977cfcee658045
-SHA1: c30d77cfff64cbf755cfddc8522d94f262aa627c
-SHA256: c3f4a2b308d7b4f2f5448ac43524b63d485072946cf6a2619e5531e569724999
-SHA512: d389047dd301a5fb10d9fe7405930363c1248d3afc96618cb2c6fe448eb263f7992cd573b57c422dfec938a805cb14d25f27c98b91b52bf832bc83036832d09e
+Size: 74080
+MD5sum: 4a1cdcb1fbc81aaaeb7823ccadeb201f
+SHA1: 3f63f44f66cda270ed7bf005b06b60fdfb820ba6
+SHA256: 5ae6dc29c74dd4c07a9ce116359578a729c2c594daadb33666171be50b663e0f
+SHA512: 28ad82571d3f181dcd7423f1d5df1fc9da14c9c49ea78c81ae836640ea30fd823700c0eca16fa10811662c006e901e79864889484f449efddafdde406a212784
 Description: Xinamine Official All-in-One bundle. Convert rootful tweaks to rootless (and rootless to rootful) with ease using the Xinam1nePatcher in Filza or use the included Xinaf1re app.
 Depiction: https://repo.cypwn.xyz/depiction/2816
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2816
