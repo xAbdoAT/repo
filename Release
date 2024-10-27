@@ -1,8 +1,8 @@
-Origin: Abdo AT 
-Label: Abdo AT 
+Origin:  Abdo AT 
+Label:  Abdo AT 
 Suite: stable
 Version: 1.0
-Codename: Abdo AT 
+Codename:  Abdo AT 
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Loading...
