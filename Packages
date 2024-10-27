@@ -281,6 +281,57 @@ Description: Simple Tool add Restart SpringBoard button.
 Name: Respr1ng
 Author: MrDeNsor
 
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm.deb
+Size: 4280
+MD5sum: 468807a92996542db70f6b8bbbef0c33
+SHA1: 5e2ddf5e450629e5b54340b3ccdd0ad0ff5a40d5
+SHA256: 4ef502c6c17260a93146a5e78518321d7df9c38c0a2b4c0f397ba6b151cc28e9
+SHA512: b2130b1fdc25c8bf7edae53cf5109bade4520a02f2c25413ac7bd68c98ff5965a8b4f8c4970c9155992dcbd01e6c119c324e606ead68fe42fcb2110e8fe900da
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
+Size: 4358
+MD5sum: 962b6adfb1596b392cabeb4fb6ad8aa6
+SHA1: 50cd3b662f1819c403828b5ab704f41f816e2572
+SHA256: 4cecc7b43efba39adea7b25775023bfd7bf87b8ca0fb22ee5e4571fb9ad90b2a
+SHA512: 4f6a2b75f1ca37934bf34fb92413e4aad40fb4bf9b12f5014ea06fb6e9b389146d3e24c02e9c244686a1b2dc41246cfb9ee1d0382402585a6aa015ab594264e6
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/com.dvntm.cc18_0.0.2_iphoneos-arm64e.deb
+Size: 4294
+MD5sum: 289ed9620f73f5112bf20d7b6e2cc46c
+SHA1: 731e017f13c7beda1c342cb583b0d63eae201a4c
+SHA256: 97e489aeebc25df1d6618bcb3c5dc8c4dae2b7fb97416d57ce0cb14d8f11f654
+SHA512: ef7e2befc7095504da2535c752705bbafb2f0426951b376e3166da702d99a1e14e949a1a3940050dff37b3cdb2b327997d02f35a479784e42981e83617792277
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -339,6 +390,57 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/InfusePlus.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.dvntm.lsquickactions_0.0.1_iphoneos-arm.deb
+Size: 3528
+MD5sum: 6b684c07e1c423b195ff8bb3e385dfe9
+SHA1: 716656951256c83f9490c362321898cffddf959a
+SHA256: 9e2b2f3d5903ddb7a637376b90d716ed05a8874beb914daec353ae05d3ada29a
+SHA512: cbd1236fa1ce9ff233e70905aaaead16ca109187804b113f2272021a12d78d9e6463988e93e2b180197ee5a90c1d932901fe524fa9a00ce7cfe28a377bcc6df8
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.dvntm.lsquickactions_0.0.1_iphoneos-arm64.deb
+Size: 3612
+MD5sum: d66c097e956ef842b968ea422b970be0
+SHA1: 87bd86e9eb2f9bd91dbf46ab60204b6d6d341b55
+SHA256: d274f1361b3a494584b49db637893b98d7838fea40441f685b72696cc3b65814
+SHA512: f8486ccaa9b2b8d6cd04830b9672f5747e0a5bea339fbf751600141dd76f12d5d8ade5498822330c7e2512d374f517d313ea810c537a7fdb5fdeb193778dd526
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.dvntm.lsquickactions_0.0.1_iphoneos-arm64e.deb
+Size: 3540
+MD5sum: 21a89cde30d604009758a7dadbb10b79
+SHA1: 11828b4d77db428d76d2f477359c22dbe022d972
+SHA256: 6134da62578e526371a9632e0b64cfa51c30a8389f3cf12d5ce36b99064b638a
+SHA512: dbdfee3363e2e1a9251e2b03e723f6b3a0bff0a70e17ba333be0531de814a2c5957a547569ffffa2939e2d6171cc4cb02cd74269dfe0dc24732df9ca4484ac65
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
 Package: com.dvntm.oledkeyboard
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -389,6 +491,63 @@ SHA512: 83538b5d7749ff67dcea94781da7482947753059a4120640e3259e5e9dcc926079df4504
 Description: OLED Dark Mode for iOS System Keyboard
 Name: OledKeyboard
 Author: dvntm
+
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm.deb
+Size: 3164
+MD5sum: 961e09f117e1de2ab470c368cd05c1f3
+SHA1: 7e1b2664b179c124f79983fa1722e018948626fe
+SHA256: 6797494654556d1a5e49eb42afe0a29dd3f558dd1871c3f4f9c374bd7383f55f
+SHA512: ea700ad906b1952c939b70e4e47b61092f19b7bc8f2e340553df06f4d3cedfd264eb48c04ab5199257ec72d1dcbb243d5297cdffdf1e1fd89a6c856e0ba301b6
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
+Size: 3252
+MD5sum: 212b5a6765b8300478dacc3cc278bd6a
+SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
+SHA256: 383af30db6594dca5017bc60d392461548200c2eba9c2194c56b97c6137e131a
+SHA512: 0300a896632c8031c2d02e7b98157e82af29f2361bd49d11e469649b1111bbdc916fc6a202737acf2a8a399fde16ac4fd93867cd096b051c6069773b1e6544af
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64e.deb
+Size: 3176
+MD5sum: 1e96b688f65ce9ea233a4efae7ecddfe
+SHA1: 686f2122e5e2f09f1c6eb93bad924c70e1afb4ee
+SHA256: 9b22f9a93d38dbabee0be65391fcafb375252dac0140bea76f1009a03310691f
+SHA512: d336bdb29806d4c856199b6fbba4ab03869d0468dbcbc8502f44a312d2693169e1d7c97b55355d060fa82e62a5fb56f6dbb486365d53ceea45f0ebde89d7a28d
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm
