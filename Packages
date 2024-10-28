@@ -221,6 +221,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: DeviceInfo
 Author: BandarHelal
 
+Package: com.bandarhl.deviceinfo
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: BandarHelal
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bandarhl.deviceinfo_1.2_iphoneos-arm64e.deb
+Size: 5044
+MD5sum: a2a4e627430a77ea4ba0d0d125a90623
+SHA1: d34ffedc00d733f21832595ec7e4749106935906
+SHA256: 1555d42739f0b21f74dc24bd37d7882950ad4d3f11cb4c9160852f1607180429
+SHA512: ba9baefa4790726302facd1181e202cc2c3b6f56ac65f8c9b2d55e40fbff690c77644d693e570e2ae2d76f44c6329fca46324ffd42b41a16465e9dadd699938b
+Description: An awesome MobileSubstrate tweak!
+Name: DeviceInfo
+Author: BandarHelal
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -1798,6 +1816,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: ACThreads
 Author: aJBboCydia
 
+Package: net.ajbbo.acthreads
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.acthreads_1.0_iphoneos-arm64e.deb
+Size: 9424
+MD5sum: ccd4d3186415af7b9d6ec7e5a475d6ad
+SHA1: 25a094eccb74038c2319d986d3010f6ff8910d04
+SHA256: b80a0ecf833176141805529585b6e47ad9483e499d299273a7a75c8f71695f6d
+SHA512: adac4d75870f8e0c205b9f897e1a598b42b63927b14a4a1583f6b293e3164b702b05d105eb32465884668077b281782751baf5bff9f024fa9041a7e358e78574
+Description: An awesome MobileSubstrate tweak!
+Name: ACThreads
+Author: aJBboCydia
+
 Package: net.ajbbo.actiktok
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1970,6 +2006,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: ACTikTok
 Author: aJBboCydia
 
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 720
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.4_iphoneos-arm64e.deb
+Size: 181392
+MD5sum: 7e7173a927be5bc91bb83218c1a2bfe8
+SHA1: 157d637afe09ab47e3d0c39638da818ee17b7df2
+SHA256: 58cdd37e63fa8932eba152208e8a0a4fa9a176359487fd71f2eb9de121a76faa
+SHA512: dcfa1747745e3660a84aca74764b77b93dc7ac5806b33cfefbbc92f11660765fcbab9a13fb896eca7a9af96d02f53683d1996d5fa96571772b329ac1572eba6b
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
 Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -2035,6 +2089,24 @@ MD5sum: 35a0e6feb75d954311bb9e7bf2cb3206
 SHA1: 13138840cc9f4a66555c5ca62b20ff5321b5fc86
 SHA256: 62367296fcff7b900fb77637262429f9071cd1edb50fc016023426327ccd77dc
 SHA512: 25f654347051bd90a01e2d0fb881671abfee831abbaac73849ca0be49eccf24affa328bdfebaa1c98cabe9e1672f52acc703f787c54adc1e4616898f367197ac
+Description: Enable In-App Purchase
+Name: In-App Purchase
+Author: aJBboCydia
+
+Package: net.ajbbo.inapp
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.inapp_1.1_iphoneos-arm64e.deb
+Size: 2832
+MD5sum: c2d3b87b3eb2c39023104ac1ff9b6e66
+SHA1: 1f69b78fdc89581adce20f9d3c7be91830ceecb9
+SHA256: 5e1e41b821affa5a238b8a9fdecf36777a30c167cf290680cf96359a6f6ba0a6
+SHA512: f35c7ff86521b2fd50f7932616a6dde1739664dda90a8573757475ac308c71f5b8d50a7d3bc14c99320123bc2c62e94533b6b90cf3c773ed5cf332e2d10ffd44
 Description: Enable In-App Purchase
 Name: In-App Purchase
 Author: aJBboCydia
