@@ -43,6 +43,23 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: ajbbodev.sbpagecontrol
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ajbbodev.sbpagecontrol_0.0.1_iphoneos-arm64.deb
+Size: 4696
+MD5sum: 763c48c75d163f816a40625f3bc4f1a7
+SHA1: 6ab34b13939e62512b13879ce0e811bb6cce3bfb
+SHA256: a9273629e2b2537f5380ee7014e746ce81e45c602cca6cfecc641e414343d685
+SHA512: eda89a5ee81b884cebdfe3ee14d065467988c1a8810bf6a1252b0d7c61ef1399125d36511c792fb3d5e063d5ec1032ea94a41b7583deba8ddd8e81a5b9593be5
+Description: An awesome MobileSubstrate tweak!
+Name: SBPageControlHidden
+Author: aJBboCydia
+
 Package: com.34306.replaced
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -187,6 +204,23 @@ Name: BHTwitter
 Author: Bandar Alruwaili
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/x.png
 
+Package: com.bandarhl.deviceinfo
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: BandarHelal
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.bandarhl.deviceinfo_1.2_iphoneos-arm64.deb
+Size: 4978
+MD5sum: 53cf5b678dbca291425ce558780742e9
+SHA1: f5b87a3789adf2b8a3051bda00c03bc0904755a4
+SHA256: 24e13ba26374a4fe2e93248e3c76c5de795f565913187635fa83b8e0e3edf465
+SHA512: 54bf3081c5c63cca16614ac0d660e4557980af20af9132691009ba8ce723382f4d72feb8306b4a63f3848f858da5c4509aa188cf92a12e6929728b31c1de4561
+Description: An awesome MobileSubstrate tweak!
+Name: DeviceInfo
+Author: BandarHelal
+
 Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -205,6 +239,23 @@ Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 Depiction: https://brendonjkding.github.io/depictions/web/?p=com.brend0n.nopassafterrespringsafe
 SileoDepiction: https://brendonjkding.github.io/depictions/native/com.brend0n.nopassafterrespringsafe/depiction.json
+
+Package: com.crazymind90.oslogger
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: @CrazyMind90
+Installed-Size: 636
+Depends: mobilesubstrate
+Filename: ./debs/com.crazymind90.oslogger_0.0.1_iphoneos-arm64.deb
+Size: 205926
+MD5sum: 6bc18938d432026aa26f454efb58b3c0
+SHA1: 99b4dd435c2bd89a5b57ed45b493c21c58eb152d
+SHA256: b0839af2a029e07dae027ad90303de450d8f986bbaf7c5472e7c5814c0c2753d
+SHA512: 8fc95addcebee57e37f4c97ae12ab7f7e2c75b9573082fee1cc52d392405fda15a77a839ae49d8a315a81e9676586aef67d1f5afddb359c9ca08e5fcd6c576bc
+Description: An awesome MobileSubstrate tweak!
+Name: OSLogger
+Author: @CrazyMind90
 
 Package: com.dcproducts.iossecuritysuitebypass
 Architecture: iphoneos-arm64
@@ -246,6 +297,41 @@ Author: Derek Calabro
 Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
 SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64
+Version: 0.0.1-135+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_0.0.1-135+debug_iphoneos-arm64.deb
+Size: 25600
+MD5sum: 2552d8e391d9a2d6aa793a00dabd1620
+SHA1: a9bff5f49396d157e272722bb0d2adb4b35fc4d5
+SHA256: 2c3c5b5831171fc70aef59d95366b62513e48261c2b850d639a3cfcfb02fd9aa
+SHA512: 90d64ea440d995c3ea3682c497ffff7c0c3d0956aff66d6012ea2624b8f4409f62208b48b4e4631897e4faa486e6f578bb551ab6d559a6eb8702ccf6de39b289
+Description: Instagram Tweak!
+Name: IGFormat
+Author: MrDeNsor
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64e
+Version: 0.0.1-135+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_0.0.1-135+debug_iphoneos-arm64e.deb
+Size: 25728
+MD5sum: 752a15db9b70b58a4ac6f0525c45130f
+SHA1: e128ec9be617a727684d769a4476d1534bcb9e7b
+SHA256: 7e8ff9d6ed5210b8d3136c64c205359041b3a55dbf1a39a9fedc605ac68a5932
+SHA512: 16a621805926565e28ad382ddda3f8458d6aae41d1f3cf01370b3715ea73dc50f257766b818e44bd97b64d4de75e7da7058236e6b09c4737d21d67ba2116837d
+Description: Instagram Tweak!
+Name: IGFormat
+Author: MrDeNsor
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
@@ -1246,6 +1332,23 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/iapstorefugu.html
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/iapstorefugusileo
 
+Package: com.lnx.showtouch
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: LonestarX
+Installed-Size: 412
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.lnx.showtouch_1.0.4_iphoneos-arm64.deb
+Size: 60002
+MD5sum: 07c9dc09c85765b3a08c7d68fd8f6656
+SHA1: 6eb1b5ed9f27d2e21d2f2b6e62a7b36bf890e4e3
+SHA256: 7eca0fdecd6919f09bdc111fd76b53663c635541a13685f821f533cc127c84f8
+SHA512: c959c85a04190603bca4aed5ac9b3e38b9757c63a6d53ab5e8d4ac71cff7ef944bc22d0af44f212fc552185f1fd37dea0c56190fe1f62ae83cf008e4e210a344
+Description: Shows where you touch the screen
+Name: ShowTouch iOS15+
+Author: LonestarX
+
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1678,6 +1781,195 @@ SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
 
+Package: net.ajbbo.acthreads
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.acthreads_1.0_iphoneos-arm64.deb
+Size: 9516
+MD5sum: 6edb7974a367966f1b53dd36ff878575
+SHA1: e4d5c6e74d5095b9741c67bf9072e175ab537f77
+SHA256: f5e484ed10eceb83fc3d624b6c68547162ba64a1d4fcb0a2b76d8d4507ecc305
+SHA512: 22a458e07e98e9f803e7dda9d529386969f55dc1713e58abe7878926831769f6d0d4675167fb7016a918694d90ff219f0f763df35bf6d08b0b61d48161fc9b10
+Description: An awesome MobileSubstrate tweak!
+Name: ACThreads
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.0_iphoneos-arm.deb
+Size: 155128
+MD5sum: bbf2c0775576bae9a5fbfd9a5b89a20f
+SHA1: e4be771f946c037f7b4f8c2659dbaf5da7124ebc
+SHA256: 3a98af512494fd05dc0e7930defa7833af8cbe675413858995da9a4c6d55ffc9
+SHA512: c66b9b592b51568d0e719848ec3638b4551e2134523a38166ea3a8a20ec9035934962d90fdba4595c698a2fa14f8aa5a06813428db151e15fff5be53112420cf
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Depiction: https://ajbbodev.github.io/pkginfo/description.html?id=net.ajbbo.actiktok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.0_iphoneos-arm64.deb
+Size: 150594
+MD5sum: 999405ef64cf6dd0e6b21967f66bd1b0
+SHA1: 3ae4c76a241a4a32c751757ba3d80df8671fca43
+SHA256: 9286c047309e33d78e7ede28d085844e7e41e03ffe13b23ba870736f80d980ac
+SHA512: 5703e97e4cba2ded97612eeab28d655daaef6cc797c7e7399908b5b53387c27e3666fcb77b036c1aa9ecc7b733de055f18e926bb1eabadc8963c8cfacf877402
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Depiction: https://ajbbodev.github.io/pkginfo/description.html?id=net.ajbbo.actiktok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.1_iphoneos-arm.deb
+Size: 160060
+MD5sum: ec6c7cb273c2f28065f5b20e89f455cf
+SHA1: e9aa1448ec930352e0c9bf5c8ad928a47d498d15
+SHA256: 29ede468a627ce510880d0573a4a2fe78e1f7d5048a56254baef4167b8878e94
+SHA512: 5acdac7d209acfeec295e1ced40aea102b8fc70c0b9339acb0a753ad2f504332f273e304d444553a3deb05356d5873872aa2abb39c6a7bec616829e0b5b17507
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.1_iphoneos-arm64.deb
+Size: 155420
+MD5sum: 1e2ec27f86794c0ca1047fc0e86daf44
+SHA1: 78dc275924a5f7058280dccf35b0c376e5fd8d6a
+SHA256: 38bb3f92586f0a484b4a701ad70a70539d39870e49d12d10d6997db72ee85c06
+SHA512: 2bd500a015620bf93ebd32088249d7a1cd22d887ab82c871e8a1de8ef095c80a3cf7efced00eb06a5fbcf0a40d6b2782f6f9c11a3d24dc6dbf82ff34311158c0
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 692
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.2_iphoneos-arm.deb
+Size: 167936
+MD5sum: 07229cee051c9bd463d16a6058240642
+SHA1: 75e335943a35cd3f0c1235712364cad3aeb40ea4
+SHA256: 9e58ede0bd549b704c36f1b57d551410bf989fec7328c926c72cbe425b903f1e
+SHA512: a7f2f6f6dc7ef12bb59169cda26b6f79132ee9db2fcefcf40608658dfad16095f1f1c77ce3dc1834647e1352f9e080b4605c47582eb76e080bb6b04351993fd7
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.2_iphoneos-arm64.deb
+Size: 160782
+MD5sum: 00c32d107388765b59213ce9f3e7684f
+SHA1: 0c14423505945b1613ec17effcfe5da19bf5cc7d
+SHA256: a496e1c27f7a1fe5518b277577258b90b060d5ec75ba4de9c946417d0ae03513
+SHA512: 919dfb8415c5a3d07875c24163f50e2c17a7f0475a6a574274b4736f2ba5ee8f923366f3e4b3fcafd41fee098ba464604a6e26cedef327547af88ccb0432024b
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 692
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.3_iphoneos-arm.deb
+Size: 167528
+MD5sum: d4ffc33cf15d2cf7668cb10482d59efa
+SHA1: 8024ad5b8eec1b39e86538279dc4f2ce6e3bc748
+SHA256: 6ae82131e40d63d7d01c3811c05aaae4ecd27bbf01d14b77194c1eef7a51a337
+SHA512: 565aae357b8508fbcaed68a4bd912f6de8a54d91133a2ff67b63fab7727146e6e062915ef25fec1aac72c31fe74ca05879c16c1c4a601320d3d8a20f83486711
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.3_iphoneos-arm64.deb
+Size: 164280
+MD5sum: 58bb6ccad5697b4d855ebe0ed8485768
+SHA1: db478f6b06f571b556d19202460220c9187f039f
+SHA256: 215fb072b2cef591f35813be3a14d36f5be02663765f4f172984ad481089d0f6
+SHA512: 65c3fdfc169f175d556257789f20ef07602f526d4c1f4d5436a8b609df2929afdf21b197f1ca0c20dca253444de1eac9c68494c8fdeb0a92ae90dbc035985aea
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 720
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.4_iphoneos-arm.deb
+Size: 190042
+MD5sum: aac14a5652a64f45f3b52491ec6aeead
+SHA1: c391f1b1d929171b5db7e3ae6250270bc7ca4e0f
+SHA256: 4a3260d8f5d640bc5271027ab1a026dcdf05ed024062465b795a12c1f9134c90
+SHA512: 51db3c214e48bab154b2c013b96da27edecd09a8c7960a62fe20ded1fb99a5e8dab4383dd3a14757eaaaaf6e349219cabaae8b28c2551bfac7517a15cdab422a
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
+Package: net.ajbbo.actiktok
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 720
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.actiktok_1.4_iphoneos-arm64.deb
+Size: 185072
+MD5sum: a3000d3a816bf618622b39a6dbd07ce4
+SHA1: da77cd29ccb227ee7ea0432745756a321533ec24
+SHA256: 8ea3b38c98f9d04313f216ef94fe4aad5e342b6c0f14c9db0156b41ad66b079f
+SHA512: 01682065b734323caaba97c7ca118c6653f3fd64ea0b51e8c1fd0726543891d15b2420e98de21241fdf4d0336b55ac31b705e6451a31ac01642fd184b799fc0c
+Description: An awesome MobileSubstrate tweak!
+Name: ACTikTok
+Author: aJBboCydia
+
 Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -1696,6 +1988,23 @@ Author: aJBboCydia
 Name: disableSharePlay
 
 Package: net.ajbbo.disableshareplay
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.disableshareplay_0.0.2_iphoneos-arm64.deb
+Size: 2944
+MD5sum: 0f645daf036c91b433e27587b1032457
+SHA1: 0e7a3996e756d14335f081261a2ae53d645a5dbc
+SHA256: 15391a97b75993e34fd974ea4a6076b620137d1ac520873b3cffe016b6d76586
+SHA512: f66677f598b8cb35f5d9edffff06775e0084644874c7ac4cdc7d5906379be933e203037ba101a6a2baf43f952666ef9730412d665f65605bc49b1d582c4721ac
+Description: An awesome MobileSubstrate tweak!
+Name: disableSharePlay
+Author: aJBboCydia
+
+Package: net.ajbbo.disableshareplay
 Architecture: iphoneos-arm64e
 Version: 0.0.2
 Section: Tweaks
@@ -1711,6 +2020,23 @@ SHA256: 4bfadd57e2922ec79523d98441aaaf338f55ea47ebf6445bbb17befa9320fe88
 SHA512: f3d9cb3a16d2aa45d2dfcb2b22b44741fa77bd65a6f5c99579802f5e2d143dbc64d187dc4a9393bae3fdd66fa455b0685d356b2768332d29026759c3bef4be67
 Description: An awesome MobileSubstrate tweak!
 Name: disableSharePlay
+Author: aJBboCydia
+
+Package: net.ajbbo.inapp
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.inapp_1.1_iphoneos-arm64.deb
+Size: 2854
+MD5sum: 35a0e6feb75d954311bb9e7bf2cb3206
+SHA1: 13138840cc9f4a66555c5ca62b20ff5321b5fc86
+SHA256: 62367296fcff7b900fb77637262429f9071cd1edb50fc016023426327ccd77dc
+SHA512: 25f654347051bd90a01e2d0fb881671abfee831abbaac73849ca0be49eccf24affa328bdfebaa1c98cabe9e1672f52acc703f787c54adc1e4616898f367197ac
+Description: Enable In-App Purchase
+Name: In-App Purchase
 Author: aJBboCydia
 
 Package: net.kayoko
