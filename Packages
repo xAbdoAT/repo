@@ -353,6 +353,41 @@ Author: MrDeNsor
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
+Version: 0.0.1-162+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_0.0.1-162+debug_iphoneos-arm64.deb
+Size: 26164
+MD5sum: 58cd438febb50dd8604d7a896e253e1e
+SHA1: a4ee819ffe979294073e8ab2f0a3085b42dbdeb8
+SHA256: 6a0cc08cce5995213f1235ee984b84363e59906e2919ed3fb3d15231269706e4
+SHA512: acde94456924b64f11265ff6776384d7fd7cee1b16e197734bab6e6da650d729238893cc4d7baa86bdc48651d9eaa9d2aaa8265e070cb3db3fffda8493ee5660
+Description:  Instagram Tweak!
+Name: IGFormat
+Author: MrDeNsor
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64e
+Version: 0.0.1-162+debug
+Section: Tweaks
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.den.igformat_0.0.1-162+debug_iphoneos-arm64e.deb
+Size: 26380
+MD5sum: 4239db2a4c7cc79b053ba738ce410c30
+SHA1: b4397715ac6a6e60fc1d89ca107612891560416b
+SHA256: 5399161742f3c289e8d7d58e0785a17ee0b5ba31a5daa0502ad05beb1d748628
+SHA512: 3166dd6fb6ce01a358266d5eed832490c10c72ecb6e53ef74558c1f5e8fd0d6a1d114e5e8e9807a7f14e49da215a8ff8ec1f87c195893320607ab7c9740f7663
+Description:  Instagram Tweak!
+Name: IGFormat
+Author: MrDeNsor
+
+Package: com.den.igformat
+Architecture: iphoneos-arm64
 Version: 0.0.1-37+debug
 Section: Tweaks
 Maintainer: MrDeNsor
@@ -1798,6 +1833,41 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: net.ajbbo.acjodel
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.acjodel_1.0_iphoneos-arm64.deb
+Size: 121866
+MD5sum: 1f273d2b47671c20e17235611fc6bcb5
+SHA1: db60f4d0ed380f4a78c9d5701bf772d0c4114b80
+SHA256: e4df684c6f403124d5ba1d99637e85f5cb36fb69aea74f359f286f65abaf7220
+SHA512: bab0d595360299d5dd39d4e2b9576fa4434b862c2930a34c434a47a2a542775b31b259dfea70aab9f89c858cbe081af6b1056b9b79f8d2aafa29c76f5bdeddc8
+Description: An awesome MobileSubstrate tweak!
+Name: ACJodel
+Author: aJBboCydia
+
+Package: net.ajbbo.acjodel
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.ajbbo.acjodel_1.0_iphoneos-arm64e.deb
+Size: 120216
+MD5sum: 133f117b287a9a92f17535ed399fae2a
+SHA1: b045d064df2053c36fd3aa9677b2e165d8c5f152
+SHA256: 0584714a435d02f5fe3ca68306ff73e403afdf89c7588a569246131a65447538
+SHA512: 925e03bb61524a7cd393ac2e3817b0245a5dab9f045e6283f559559988b974027580ae95f7cc860be1d0400a776edafe759ff64e37e2569769ab42d77b992bf0
+Description: An awesome MobileSubstrate tweak!
+Name: ACJodel
+Author: aJBboCydia
 
 Package: net.ajbbo.acthreads
 Architecture: iphoneos-arm64
