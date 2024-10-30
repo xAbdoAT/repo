@@ -1,7 +1,7 @@
 {
 	"class": "DepictionTabView",
 	"minVersion": "0.4",
-	"headerImage": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/header.png",
+	"headerImage": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/header.png?raw=true",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -19,15 +19,15 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/1.png"
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/1.png?raw=true"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/2.png"
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/2.png?raw=true"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/3.png"
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/3.png?raw=true"
 						},
 						{
 							"accessibilityText": "Screenshot",
