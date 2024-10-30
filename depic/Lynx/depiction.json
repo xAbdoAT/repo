@@ -1,0 +1,542 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.4",
+	"headerImage": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/header.png",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Ultimate Device Customization for iOS 14, 15 & 16",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 346}",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/1.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/2.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/3.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/4.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/5.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/6.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/7.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/8.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/9.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/10.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/11.png"
+						}
+					]
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Description"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Lynx 2 -  Ultimate Device Customization for iOS 14, 15 & 16\n\nRequires [Cephei](https://repo.chariz.io/)\n\nOn iOS 12 or 13? Try out [Lynx](https://havoc.app/package/lynx)\n\nIf you cannot purchase Lynx for any reason, contact me on Twitter and we can work something out. Refunds will only be accepted for 48 hours after purchase, 'too many options' requests will be ignored, please read the entire description before purchasing.  If you are experiencing a bug with crashing, please attach the crashlog in the bug report. An updated version of Cr4shed can be found [here](https://github.com/crazymind90/Cr4shed-Rootless)\n\nTo view the full list of features, [open on GitHub](https://github.com/MTACS/Lynx2/blob/main/README.md#features)",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Information"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Version",
+					"text": "2.5.3"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Size",
+					"text": "631.38 KB"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Updated",
+					"text": "October 7, 2024"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "iOS Versions",
+					"text": "14.0 - 16.7.7"
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Seller"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 15
+				},
+				{
+					"class": "DepictionStackView",
+					"tabname": "",
+					"xPadding": 15,
+					"views": [
+						{
+							"class": "DepictionLayerView",
+							"views": [
+								{
+									"class": "DepictionLabelView",
+									"text": "MTAC",
+									"fontSize": 14,
+									"fontWeight": "semibold",
+									"margins": "{2, 32, 2, 15}"
+								},
+								{
+									"class": "DepictionImageView",
+									"URL": "https://cdn.discordapp.com/avatars/451747491549806593/575b12d2efd9e536db5bd33955e73333.png",
+									"width": 24,
+									"height": 24,
+									"cornerRadius": 4
+								}
+							]
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 15
+				}
+			]
+		},
+		{
+			"class": "DepictionStackView",
+			"tabname": "Changelog",
+			"views": [
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.5.3",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "October 7, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to set custom width of Dynamic Island outline\n- Added option to always show Dynamic Island background instead of fading on lighter background\n- Added option to set custom color of Dynamic Island outline\n- Added option to set color of Dynamic Island to average color of now playing artwork\n- Added option to set Homescreen search pill background style (iOS 16+)\n- Added option to add close button in App Switcher with 3 position choices\n- Added option to hide split view vertical divider in Settings on iPadOS\n- Added option to set background image in Control Center for dark & light interface styles\n- Added option to automatically expand notification groups in Notification Center\n\n# Fixes\n\n- Fixed hiding search bar on Today View not working correctly\n- Fixed press to kill all apps gesture being enabled when app is in foreground"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.5.2",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "May 21, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Re-added option to press to kill all apps in App Switcher\n- Added option to toggle autosaving icon layout\n\n# Fixes\n\n- Fixed issue where 'Use Updates Button' option in AppStore section didn't work on devices with language not set to English\n- Fixed 'Reset Section' option in each Settings page not working properly\n- Fixed Bluetooth logo misplaced in Control Center when using slider percentage option\n- Fixed SpringBoard crashing when opening apps with Bluetooth device connected\n- Fixed 'Delete App' 3D Touch menu option disappearing on Homescreen\n- Fixed Status Bar spacing when using Fluid gestures and iPhone X status bar disabled\n- Fixed dictation key height when 'Replace Dictation Key' option is disabled"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.5.1",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "April 7, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added ability to reset each section in Settings individually\n- Added option to hide serial number in About section of Settings. Copied text remains device serial number\n- Added option to disable Floating Dock gesture while on Today View or Spotlight search is open\n- Added option to set custom corner radius of cards in App Switcher\n- Added option to move Control Center to bottom of screen\n\n# Fixes\n\n- Fixed magnifying glass image not hiding on App Library search bar\n- Fixed WiFi address not appearing on main Settings page when using 'Show WiFi Address'\n- Fixed 'Display as Icon' option not displaying properly when using glyph icons, and in App Library\n- Fixed running indicators on Dock icons not scaling properly when using Floating Dock\n- Fixed App Library category editor view hiding switches when in landscape mode on iPads"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.5",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "March 12, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to show current weather conditions in CarPlay status bar\n- Added option to hide CarPlay status bar blur\n- Added option to display folders as icon of first application inside\n- Added option to hide all Focus indicators on Lockscreen\n- Renamed applications can now be searched in Spotlight with overriden name\n- Added option to display date next to time in Status Bar\n\n# Fixes\n\n- Fixed locked apps not checking for biometrics in Siri widget, and when swiping along bottom of screen to switch apps on devices with fluid gestures enabled\n- Fixed views in Settings not showing when resuming application while using 'Use Translucent Settings'\n- Fixed Homescreen page dots not hiding properly on iOS 16 when 'Search: Show on Home Screen' is enabled\n- Fixed widgets overlapping icons on SpringBoard\n- Fixed Widgets section in settings crashing"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.10",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "February 26, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Changed Floating Dock background style to be affected by 'Background Style' of Dock section\n- Added option to choose between app with highest number of icons or first app with notifications for coloring folder icon badges\n- Added option to use icon image average color for icon badge text color\n- Added option to change average badge color algorithm\n- Added option to hide Bedtime focus indicator on Lockscreen (iOS 16+)\n- Added option to always show time in Status Bar on notched/dynamic island devices\n- Changed settings localizations to fall back to English translation if missing\n- Added option to use custom fonts for Lockscreen clock\n- Added option to hide 'Settings' label on main page of Settings app\n- Added option to set custom 'Notification Center' text\n\n# Fixes\n\n- Fixed Photos app crashing when 'Delete Permanently' is enabled\n- Fixed 'Increase Zoom Limit' not working in Photos app\n- Fixed Connectivity module buttons overlapping when device is in landscape orientation\n- Fixed SpringBoard crashing when opening apps while using Floating Dock and with AirPods connected\n- Fixed icon state not persisting across reboots when using custom Homescreen layout\n- Fixed folder icon background view not hiding when 'Reduce Transparency' is enabled\n- Fixed custom icon transparency not applying to apps in Floating Dock\n- Fixed volume slider percentage not appearing when connected to Bluetooth device (iOS 16+)\n- Fixed Control Center brightness slider not appearing when 'Use Rounded Modules' is enabled\n- Fixed Homescreen editor page not appearing in some cases\n- Fixed renamed apps not showing correct name in Notification Center\n- Fixed notification count not applying to individual app groups\n- Fixed icon labels disappearing when using custom label color"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.8",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "February 12, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to hide outline on edge of Dynamic Island\n- Added option to set custom number of CarPlay icon rows\n- Added option to set custom color for Home Bar\n- Added option to hide contacts row in share sheet\n- Added option to hide suggested apps row in share sheet\n\n# Fixes\n\n- Fixed clock disappearing when 'Display Seconds' is enabled on iOS 16\n- Fixed 'Translucent Settings' not recognizing taps when keyboard is displayed\n- Fixed emoji and globe button not appearing on keyboard when using 'Enable Fluid Gestures'\n- Fixed SpringBoard crashing when using a value larger than allowed for number of Connectivity module rows or columns\n- Fixed date not hiding when using 'Hide iPad Style Date'\n- Fixed Lockscreen clock and subtitle position not being set on iOS 16+\n- Fixed Lockscreen clock and subtitle not hiding on iOS 16+"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.7",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "January 29, 2024",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to hide VPN toggle on main page of Settings (VPN can be accessed through Settings → General → VPN & Device Management)\n- Added option to change background style of Control Center modules\n- Added option to hide highlighted view of enabled Control Center toggle modules\n- Added option to set background color of enabled Control Center connectivity toggles\n- Added option to resize Control Center connectivity module\n- Added option add a customizable delay before sending iMessage or SMS\n- Added option to adjust Status Bar network speed label vertical offset\n- Added option to adjust Status Bar network speed label horizontal offset\n- Added option to automatically loop videos in Photos\n\n# Fixes\n\n- Fixed 'Family' section in Settings not hiding properly\n- Fixed 'Show Data Usage' not loading on iOS 15+\n- Fixed custom CarPlay wallpaper causing black screen\n- Fixed lockscreen home bar hiding when 'Homescreen & Apps' option was enabled\n- Fixed renamed applications not persisting on rootless jailbreaks\n- Fixed 'iPad Style' status bar not working in on rootless jailbreaks\n- Fixed 'Lock Hidden Album' not working in some cases\n- Fixed context menu separators not hiding properly"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.6",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "December 26, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to replace dictation key with dismiss keyboard\n- Added option to display cellular data used in Settings\n- Added option to show network download & upload speed in StatusBar\n- Added option to choose Control Center background blur style\n\n# Fixes\n\n- Fixed spacing on Lockscreen when hiding Do Not Disturb indicator on iOS 16 (Thanks Nightwind & Luki)\n- Fixed some preferences not being set on rootless jailbreaks"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.5",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "October 29, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Added option to disable parallax effect on Homescreen wallpaper\n- Added option to hide CarPlay icon labels\n- Added option to hide CarPlay icon label backgrounds\n- Added option to use custom number of icon columns in CarPlay\n- Added option to always show battery icon in CarPlay, even if device is connected via USB\n- Added option to show current temperature in CarPlay Status Bar\n- Added option to choose which edge of screen to display CarPlay Status Bar\n- Added option to set custom wallpaper in CarPlay\n- Increased sensitivity of swipe gesture to kill all apps in App Switcher\n- Added option to bypass 'Recently Deleted' album & remove media items in Photos permanently\n- Added option to enable FluidUI gestures on devices with Home Button (Thanks ETHN)\n- Changed badge coloring logic on folder icons to use the average color of the first icon with notifications\n\n# Fixes\n\n- Fixed missing ability to set custom icon label color\n- Fixed Lockscreen date view using wrong date formatter when displaying seconds\n- Fixed Status Bar displaying improperly on certain notched iPhones\n- Fixed Homescreen page dots not hiding properly"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.3",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "September 3, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Changes\n\n- Increased the maximum & minimum possible values for notification lists offset\n- Added option to enable notched style status bar\n\n# Fixes\n\n- Fixed Lockscreen clock alignment in landscape mode\n- Fixed 'Replace Spotlight' not working on rootless iOS 15 jailbreaks\n- Fixed 'Remove App Library' not working on iOS 15 jailbreaks\n- Fixed 'Lock Hidden Album' feature in Photos not working"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.2",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "July 17, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Fixes**\n- Fixed issue causing a respring loop on rootless jailbreaks when using a custom homescreen layout\n\n**Changes**\n- No new changes, all requests since release of version 2.4.1 will be included in a future update"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4.1",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "July 15, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Fixes**\n- Fixed tweak preferences not being loaded into sandboxed apps on rootless jailbreaks\n- Fixed alert when closing all apps in switcher on iPadOS not following device orientation\n- Fixed hiding Lockscreen quick action button background not working\n- Fixed Control Center connectivity changes label not being hidden\n- Fixed section icons in Lynx's preference page not being colored correctly\n- Fixed cells in Settings causing visual glitches when changed\n- Fixed tab bar button images layout positioning on non notched devices\n- Fixed 'Hide Action Images' not working on Homescreen 3D Touch actions\n- Fixed SpringBoard volume slider potentially showing control center slider percentage\n- Fixed Lockscreen clock always displaying 12 hour format when displaying seconds even if device was set to 24 hour format\n- Fixed Control Center slider percentages not appearing in expanded mode\n- Fixed Lockscreen date positioning overriding value set with Nexus tweak by @iCrazeiOS\n- Fixed apps not being terminated when swiping down to kill all\n- Fixed audio routing button not hiding\n- Fixed badges not being colored properly when using average icon color\n- Fixed coloring in About section of settings when using light interface mode\n- Fixed 'Face Down to Lock' not working on iOS 15+\n- Fixed hidden cells in Settings not updating when changing value\n- Fixed stepper cells crashing Settings app when changing value\n- Fixed Spotlight layout breaking on iPadOS due to the default of 4 icons per row on iPhone\n\n**Changes**\n- Added ability to import or export settings data in About section\n- Added blur to applications in App Switcher that are locked via 3D Touch menu\n- Added option to always use expanded media player on Lockscreen (iOS 16 only)\n- Added option to skip navigation apps when killing all apps in App Switcher\n- Added option to set custom page scaling in App Switcher\n- Added option to set custom spacing between pages when using grid layout in App Switcher\n- Added option to disable swipe to last app gesture on devices with Home Bar\n- Removed option to press to kill apps in switcher as method was not reliable\n- Added option to make 'Hide DND Banner' affect iOS 15+'s DND Focus indicator\n- Added option to show indicator on running apps in Dock with options for shape and color\n- Removed option to display cellular signal as RSSI until better method is implemented"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.4",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "May 29, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Changes**\n\n- Streamlined design of settings, and added more descriptive labels for each option\n- Rewrote majority of tweak for compatibility for iOS 14.0 through 16.x on all supported hardware\n- Added option to Family, device management, storage and similar badges in Settings\n- Added option to use modern, redesigned Apple ID cell in Settings\n- Added option to hide homescreen 3D Touch menu background\n- Added option to show app size from homescreen 3D Touch menu\n- Added option to fake cellular service &amp; details on incapable devices\n- Added option to change number of cellular service strength bars\n- Added option to change cellular data type\n- Added option to toggle Low Power Mode via tap on Status Bar battery\n- Added better App Library category editor. Present via 3D Touch menu on app in Library, or via button in Settings\n- Added option to disable Spotlight swipe gesture on lockscreen (iOS 15+)\n- Added option to disable dictation key on keyboard\n- Added option to always use landscape expanded keyboard on iPadOS\n- Added option to use haptic feedback when tapping on keyboard, with strength selection\n- Added option to popup title of section when scrolling table view with side index\n- Added option to view contents of homescreen folder via 3D Touch menu\n- Added option to enable iPadOS style windowed Spotlight view\n- Added option to always return to first Homescreen page when device is locked\n- Added option to remove data network icon in Status Bar\n- Added option to obscure contents of Notes in list view\n- Added option to change tint color for Notes app\n- Added option to automatically hide tool bar in Notes app\n- Added option to individually select tab bar items in Phone app\n- Added option to hide Status Bar in Control Center\n- Added option to hide search bar in Settings app\n\t\t\n**Fixes**\n\n- Fixed CarPlay splashscreen breaking FaceID popups in certain apps\n- Fixed scrollbars not always hiding system wide\n- Fixed Lockscreen camera situation by disabling swipe but keeping button functionality\n- Fixed date under time not always appearing properly\n- Fixed MagSafe ring not appearing when charging"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.3.2",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "February 10, 2022",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "### New Features\n\n- Added option to automatically close folders when launching apps inside\n- Added option to override Dock interface style\n- Added option to clear spotlight when dismissing\n- Added option to hide select App Library Categories\n- Added option to disable CarPlay splash screen (@EthanWhited)\n\n### Fixes\n\n- Fixed/reenabled custom folder icon rows & columns\n- Fixed app locking option not protecting apps in certain situations, options now located in Icons section\n- Fixed Today View widget edit button not hiding\n- Fixed App Library subfolders glitching when opened"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "2.3.1",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "February 1, 2022",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "### Fixes\n\n- Fixed Today View widget edit button not hiding\n\n- Fixed App Library sub folders glitching when opened"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				}
+			]
+		}
+	]
+}
