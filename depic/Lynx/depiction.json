@@ -1,7 +1,7 @@
 {
 	"class": "DepictionTabView",
 	"minVersion": "0.4",
-	"headerImage": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/header.png?raw=true",
+	"headerImage": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/header.png",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -19,47 +19,47 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/1.png?raw=true"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/1.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/2.png?raw=true"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/2.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/3.png?raw=true"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/3.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/4.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/4.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/5.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/5.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/6.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/6.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/7.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/7.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/8.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/8.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/9.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/9.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/10.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/10.png"
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/Screenshots/11.png"
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/Screenshots/11.png"
 						}
 					]
 				},
