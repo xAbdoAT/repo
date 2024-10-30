@@ -471,6 +471,63 @@ Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
 
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.cmm_1.0_iphoneos-arm.deb
+Size: 34896
+MD5sum: ab893087bd5bd433e29120b2a79ca66c
+SHA1: 8c7add6fd01e34453f1a5f48d610985dd0464534
+SHA256: 3f17b952a7aa6c6cd7b0ff27b2c576d52fc4a05ae8a63519873973f98a6a7007
+SHA512: b0bc1d39839539cb9a9954cc973b1035dc803f6da6d5ae50059af741d96321524b882fba1b7336e31b24d73ecda1d44e7f85e49af9c0c9500d69a0fd96763ba0
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.cmm_1.0_iphoneos-arm64.deb
+Size: 34796
+MD5sum: 128264f679269e66692603fd7d52909f
+SHA1: 720062c3c208576bf8f9464285068555afd25a8b
+SHA256: 8459dab939d0b362c4406d249d4ce293454e15d14e7690bee301e137e3e348d6
+SHA512: 17ec94a1f92d6fa4ce9fb89dcbe28a153ae03d124453ae70e107590d36bba2f5561f1b9fe16f0d62842324967802eb69ba09f1f0a8b6fd73b7e39f9b934ea59e
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
+Package: com.dvntm.cmm
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.cmm_1.0_iphoneos-arm64e.deb
+Size: 33948
+MD5sum: 8ab233b7c0a0ae3fc50b1a81d66f7620
+SHA1: 84e543f8c3c53d911a88ee06855ccd99d3636331
+SHA256: 621500489ddf84d079cb93d8c782d3c85e3b34a11f653113ddfa3e0c73056afb
+SHA512: c2a87a58839392cc186d49f258598bf752910da56338c9ceee01cd07cfb5ac1bc8f9fa9dbffb8e2714466cc9195ede8cfd4ffa84cc68177a80f20e505e541128
+Description: Enhancer for the system Phone app
+Name: CallMeMaybe
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sources/depiction.json
+
 Package: com.dvntm.infuseplus
 Architecture: iphoneos-arm
 Version: 1.2.0
@@ -843,6 +900,43 @@ SHA512: 089c585d89eb35af28becd51c75fc84d590ef4a7b6a35ef060520e09c9281ddecae3d8de
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
+
+Package: com.dvntm.twitchdvn
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 24652
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.twitchdvn_0.0.2_iphoneos-arm64.deb
+Size: 8912252
+MD5sum: 56b8011cc748d39056b728c729c14a38
+SHA1: 0a4ab7884d9da4b662070d43e12acda18d687983
+SHA256: a2d442823ce7749113cdd5c0793a19fa4e3dfec8c64bdf53a3ee54e709b65e9a
+SHA512: cff868433fbb1aad22bccd341c35200d693daabfdfe6fcc792021644f27d52ddb99e211eaf2df17efd271f3296c4461743ddccf14230a18d2259016a45f897cc
+Description: Download your favorite clips, VODs and Live Streams with Dvnloader for Twitch!
+Name: TwitchDvnloader
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/TwitchDvn.png
+
+Package: com.dvntm.twitchdvn
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 24652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.twitchdvn_0.0.2_iphoneos-arm64e.deb
+Size: 8806692
+MD5sum: f3c71607bfbb3d46e5613e1327c8a252
+SHA1: ce26efd512d3fc71411725d8726fb2dda9a8981a
+SHA256: fa8951510466c4971beaf780f6c911c4e8970cde8799b6f6f7d7fa6e2da597e6
+SHA512: a7ac277412e62c1440e54311ee6335a58b2f0b2f478b58ab7c080726df6e0e71b4516258d8cfafe1a285137e1b44b4520544953c2485255c2446491e6852cae5
+Description: Download your favorite clips, VODs and Live Streams with Dvnloader for Twitch!
+Name: TwitchDvnloader
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/TwitchDvn.png
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
@@ -1402,6 +1496,44 @@ Description: Shows where you touch the screen
 Name: ShowTouch iOS15+
 Author: LonestarX
 
+Package: com.mtac.lynxtwo.localizations
+Architecture: iphoneos-arm64
+Version: 2.5
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 984
+Depends: com.mtac.lynxtwo
+Filename: ./debs/com.mtac.lynxtwo.localizations_2.5_iphoneos-arm64.deb
+Size: 114052
+MD5sum: 3331857f9dfe8b5b5e7cbab436f8b94d
+SHA1: 29b1c0e7eb6f3f1781e7a1717dce4b326d45f9d1
+SHA256: 4e6c688ec741933c47d7375b463e25f375b556adb041d13b03292f30d8456b4b
+SHA512: f5ef6c28ffb4a492a77ecb695c8be0062bbdc69b1e6b84735971313337391de74748f0614696d0a5266c0649c58b9df4db749444cd356716af70b9c68409a789
+Description: Localization support for Lynx 2
+Name: Lynx 2 Localizations
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
+
+Package: com.mtac.lynxtwo
+Architecture: iphoneos-arm64
+Version: 2.5.3
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2848
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64.deb
+Size: 652940
+MD5sum: 243e94385bc76fe82888c03645d17843
+SHA1: 33d41714360c0bf711d37324dea3487e93f9efbf
+SHA256: 158d5b50184c03e97dbb1e0e1bda56284dc650a596661776ac6ab0cfc8fd313f
+SHA512: 96ce2e6555bf2658a775e972f945eeb4230ad7d22a43546b3e439c178a4cb9ad1203445acfdc4098cd6e07ebd4e23ce92aac78b5f52f2bf378e721d0db60e78a
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Name: Lynx 2
+Author: MTAC
+SileoDepiction: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/Lynx/depiction.json
+Icon: https://github.com/xAbdoAT/repo/blob/main/depic/Lynx/icon/icon.png?raw=true
+
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -1434,6 +1566,24 @@ SHA512: d1bd2cb27d98366d5b44cf08d7fc8870a25d4b141590d6f3ac8a45c3387b89c101ad79f8
 Description: Tweak to enable the hidden storage settings
 Name: InternalStorageSettings
 Author: Nathan Senter
+
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.4
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5050184
+MD5sum: 0a30fdaba319fb8b77f626b2552ebf0d
+SHA1: 1f00f44e2ad3518325ed5ca430ac4502bd26d9d7
+SHA256: fc0f1648a8d3ceaac7ecbd1ae129ec1a5bec4a2421f946cd13b263c1c492d4b1
+SHA512: 07394a7d232d046d4a859fc36e382089d318f6b2f5a82b4ff58000a44ec9ffc33d2183ae9a5a15f6aede1ee43da5e08daf265cb68f1d1de30cc60df48d95db9d
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
 Package: com.netskao.filzacrack
 Architecture: iphoneos-arm64
@@ -1471,6 +1621,67 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Name: Filza Crack
 Author: Netskao
+
+Package: com.noisyflake.albummanager
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 690
+Depends: firmware (>=15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/com.noisyflake.albummanager_1.0.2_iphoneos-arm64.deb
+Size: 55370
+MD5sum: 00ba4c153126f2d124dd870be8eb6923
+SHA1: 6ce1192450e696810980bbd7a05fc0851e3ea6ce
+SHA256: 666931e068513c66067981aed24449cf28c0f36e5c3ee6c07b63666217f604d9
+SHA512: 7bf39b55e1cb3e2d8f82acc3d911e8aa4c52d1e3ad4cb84f5da08618619a986903e0e8558ebf2de8983f298c4894b9b3559af8564d4bb10c41f5fa1ef3473cdc
+Description: Organize and protect your photo albums
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: AlbumManager
+Icon: https://img.chariz.cloud/icon/albummanager/icon@3x.png
+Depiction: https://chariz.com/buy/albummanager
+
+Package: com.noisyflake.betteralarm
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 748
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.noisyflake.betteralarm_1.4.1_iphoneos-arm64.deb
+Size: 295154
+MD5sum: 1fb94538ef65d9970e24afff3b337469
+SHA1: b03b56cbc32aa8a8efa72fd30eaef66b7e38265e
+SHA256: a893df22f5a960fd28b5525df5442c123e529eebaf64a95ec73e5f51a01e2bda
+SHA512: 0ff2658274bb808621a308e36af97b1db6725c312e61f2b925f5ddfae957882680966a26714dffdf6094d6cc9f5df6f20a3d403bf108aa2d84dc03e1e5303c55
+Description: A beautiful timer and alarm screen
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: betterAlarm
+Icon: https://img.chariz.cloud/icon/betteralarm/icon@3x.png
+Depiction: https://chariz.com/buy/betteralarm
+
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm64
+Version: 2.1.2-3
+Section: Tweaks
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64.deb
+Size: 95422
+MD5sum: 73091f5e4411fbd42a9e54aa0f3fc13a
+SHA1: d040c4851660ac3d913c76fa8fe87e0dd3fe82d6
+SHA256: 60c2aace71723542f533721307f6dfc37a07d3c58c7fe449688bc1c6136f75f1
+SHA512: f8be45fc77557995f101573bbc4ff4037a7f66e769b52184affb3fab543f180fefe2539180717d9c3317d1ec374b19bacc12c7d9b176b4dbefad30c7b9581f4b
+Description: A fully customizable notification experience
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Name: Velvet 2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Depiction: https://chariz.com/get/velvet-2
 
 Package: com.roothide.varclean
 Architecture: iphoneos-arm64
@@ -1790,6 +2001,47 @@ Author: XsF1re, ichitaso, level3tjg
 Name: vnodebypass
 Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
 Icon: https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/assets/icons/vnode.png
+
+Package: me.nebula.ding
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
+Size: 25324
+MD5sum: 109af569fc3ad6efdce61f4f72e8bc44
+SHA1: f6f5a5699c970c833cc92699afea6199d5242307
+SHA256: c51e74ad2e64ca9f3e03796d846102b37b29dad00a417cb1842c0e84f659b4ee
+SHA512: 7505d7c48a1302704b6858343d507506e0962985441b5b5c0ad5681bad50d69cf9d45fa2d966ae74607279fbd3d73dbb6642114330398e4c56f1c9881c1188b3
+Description: Take control of your ringer switch!
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+Depiction: https://chariz.com/buy/ding
+
+Package: me.nebula.ding
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nebula <tweak-support@itsnebula.net>
+Installed-Size: 394
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64e.deb
+Size: 25388
+MD5sum: 2a10d15d6145a13aa03db438b490b232
+SHA1: 265ddef48fe41cb1df277df5e9237a17e79e48e8
+SHA256: c8ce42109936261a768865ac1acfe24b4a286c1acc5e5657e050882270428355
+SHA512: d84753531c625bd6f48d009ca8b139f020261f06b50712d456b49f1dc54008d03975ef938701c99c03b28fb113e86ffe8fc5e0a7414160d654893e86d52202ae
+Description: Take control of your ringer switch!
+Tag: cydia::commercial, compatible_min::ios13.0
+Author: Nebula <tweak-support@itsnebula.net>
+Name: Ding
+Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
+Depiction: https://chariz.com/buy/ding
 
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64
@@ -2301,6 +2553,68 @@ Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Name: FilzaDirProbeCrack
 Author: 0xkuj
 Depiction:
+
+Package: xyz.cypwn.filzascriptdev
+Architecture: all
+Version: 2.0
+Section: Utilities
+Maintainer: CyPwn
+Depends: dpkg, ldid, file, odcctools, plutil
+Filename: ./debs/xyz.cypwn.filzascriptdev_2.0_all.deb
+Size: 5738
+MD5sum: 1af20c2eda401aca5bcc0191435db152
+SHA1: a7916477cc1b857517bf0e13fa2e1921ec569f34
+SHA256: 73b53e457346c50bac0e658a13dfb0afa0068bcaa463903c7940d3038615477c
+SHA512: 65f53edef0ae1785067564ab372b8ede2bdc519deb7147cce1002b4cacd23138200d276e1070527e95b3e2a76eca5d455f92ff184cc70888ffc32398c8ab79e6
+Description: Scripts to build rootful & rootless with Filza. Plus other handy Filza scripts. *Use regular Filza, NOT trollstore Filza*
+Depiction: https://repo.cypwn.xyz/depiction/1364
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1364
+Name: Filza Scripts
+Author: CyPwn
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/filzascripts.png
+
+Package: xyz.cypwn.getfouaded721822
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 560
+Depends: mobilesubstrate
+Replaces: xyz.cypwn.getfouaded
+Filename: ./debs/xyz.cypwn.getfouaded721822_2.0.0_iphoneos-arm64.deb
+Size: 84964
+MD5sum: e611de9d021bcf4bca3ada50fed5bafd
+SHA1: 62aaee41835790a4f67020a4983167bee978bdf9
+SHA256: f9681a48de4e551888414369e081599c44204571a6a28df3ff507f85a04445ac
+SHA512: 5a89be9fae98ca20fc7f63d2ace120ad79a090aebb984fd349975d924aee9b71c513aa31a8487d5d3c52d097884b92fc50c90a3f89d10621de6a06b81325b934
+Description: CBZ Crack for all latest Fouad tweaks. Regram, Watusi, Stalky, OnlineNotify, ContactSync, etc.
+Depiction: https://repo.cypwn.xyz/depiction/2787
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2787
+Icon: https://cypwn.xyz/cypwnblankicon.png
+Name: Fouad Crack
+Author: CBZ
+
+Package: xyz.cypwn.getfouaded721822
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 560
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Replaces: xyz.cypwn.getfouaded
+Filename: ./debs/xyz.cypwn.getfouaded721822_2.0.0_iphoneos-arm64e.deb
+Size: 82288
+MD5sum: bd3151d104a34f0525b8365b8fe55fd1
+SHA1: 1e1022a615252b60bcf543719c605fd8be794091
+SHA256: 7b233e819a9ed3e12c4612db3d9634a6b180dc3127f0b3620548108cdc50f4d3
+SHA512: f413c46a15700e9bdc0f26e859fc3554327a6f0c0ae32acc04a44ef6a4054504da3d388980ee3c2d71363cf9d38120f4b70fdcb2a7ac0034e16a615108ee6e19
+Description: CBZ Crack for all latest Fouad tweaks. Regram, Watusi, Stalky, OnlineNotify, ContactSync, etc.
+Depiction: https://repo.cypwn.xyz/depiction/2787
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/2787
+Icon: https://cypwn.xyz/cypwnblankicon.png
+Name: Fouad Crack
+Author: CBZ
 
 Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64e
