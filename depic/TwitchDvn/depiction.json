@@ -1,0 +1,180 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.4",
+	"headerImage": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/header.png",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"title": "Your favorite downloader for Twitch!",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 346}",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/1.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/2.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/3.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/4.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://raw.githubusercontent.com/xAbdoAT/repo/refs/heads/main/depic/TwitchDvn/Screenshots/5.png"
+						}
+					]
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Description"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Download your favorite Clips, VODs and Live Streams with Dvnloader for Twitch!**\n\nEnhance your Twitch experience with this powerful tweak! Unlock the ability to download your favorite Twitch videos effortlessly. Save and enjoy content on your own terms with feature-packed tweak designed for video enthusiasts. Seamlessly download a variety of content, including profile photos, clips, videos, and live broadcasts, with a simple long-press gesture. Enjoy the convenience of background downloads and receive notifications upon completion for a hassle-free experience.\n\n**TLDR:**\n- Clip downloading. This includes both clips from user profiles and those created by tapping the clip button\n- Full video downloading or specified duration\n- Live broadcast downloading with specified duration or until the end of the broadcast\n- Profile photo viewing\n- The ability to cancel downloading. Optionally, you can save the already downloaded part of the canceled download\n- Supports background downloading. You don't need to remain in the Twitch app and monitor every percentage of the download - TwitchDvn will notify you when the download is complete\n\n**Refund policy:**\nNot eligible for a refund, except in cases where the issue lies with the tweak itself and the said issue cannot be resolved.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Information"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Version",
+					"text": "0.0.2"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Size",
+					"text": "8.5 MB"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Updated",
+					"text": "December 22, 2023"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "iOS Versions",
+					"text": "13.0 - 17.2"
+				},
+				{
+					"class": "DepictionHeaderView",
+					"title": "Seller"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 15
+				},
+				{
+					"class": "DepictionStackView",
+					"tabname": "",
+					"xPadding": 15,
+					"views": [
+						{
+							"class": "DepictionLayerView",
+							"views": [
+								{
+									"class": "DepictionLabelView",
+									"text": "Abdo AT ",
+									"fontSize": 14,
+									"fontWeight": "semibold",
+									"margins": "{2, 32, 2, 15}"
+								},
+								{
+									"class": "DepictionImageView",
+									"URL": "https://github.com/xAbdoAT/repo/blob/main/CydiaIcon.png",
+									"width": 24,
+									"height": 24,
+									"cornerRadius": 4
+								}
+							]
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 15
+				}
+			]
+		},
+		{
+			"class": "DepictionStackView",
+			"tabname": "Changelog",
+			"views": [
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "0.0.2",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "December 22, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added tweak section to the Twitch main menu where you can configure options\n- Added option to automatically claim channel points\n- Added Traditional Chinese localization support\n- Minor improvements"
+				},
+				{
+					"class": "DepictionLayerView",
+					"views": [
+						{
+							"class": "DepictionLabelView",
+							"text": "0.0.1",
+							"fontWeight": "bold",
+							"fontSize": 16
+						},
+						{
+							"class": "DepictionLabelView",
+							"text": "December 17, 2023",
+							"fontWeight": "semibold",
+							"fontSize": 16,
+							"textColor": "#696969",
+							"alignment": 2
+						}
+					]
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "First release. Available features:\n\n- Clip downloading\n- Full video downloading or specified duration\n- Live broadcast downloading with specified duration or until the end of the broadcast\n- Profile photo viewing"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				}
+			]
+		}
+	]
+}
