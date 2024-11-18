@@ -22,17 +22,6 @@ Enjoy exploring the available tweaks and tools!
 - **🛠️ Tools**: Enhance your jailbreak journey with powerful utilities.
 - **📚 Resources**: Access comprehensive guides and documentation.
 
-## 🚀 Getting Started
-
-1. **Clone the Repo**: Start by cloning the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/ios-jailbreak-repo.git
-   ```
-
-2. **Explore**: Navigate through the folders to discover what interests you.
-
-3. **Install**: Follow the instructions in each section to install and utilize the tools or tweaks.
-
 ## 🤝 Contributions
 
 We welcome contributions! If you have something to share, please fork the repository and submit a pull request. Make sure your contributions are well-documented and organized.
